@@ -20,5 +20,5 @@ deploy: .git
 	git push "https://${GITHUB_KEY}@github.com/centilliard/401.git" gh-pages
 
 .git:
-	git config user.email "centilliard@centilliard.com"
-	git config user.name "Travis CI"
+	git config user.email "${GITHUB_USER_EMAIL}"
+	git config user.name "${GITHUB_USER_NAME}"
