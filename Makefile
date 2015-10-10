@@ -7,7 +7,6 @@ minify:
 deploy: .git
 	echo "Deploying to github..."
 	git checkout -b gh-pages
-	cp -r ${BUILD_DIR}/* .
 	git status
 	git commit -a -m "Automatic web deployment"
 	git push "https://${GITHUB_KEY}@github.com/centilliard/401.git" gh-pages
