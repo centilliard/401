@@ -16,8 +16,8 @@ deploy: .git
 	ls -al
 	git status
 	git status | grep "nothing to commit" || \
-	git add . \
-	git commit -a -m "Automatic web deployment"  \
+	git add . && \
+	git commit -a -m "Automatic web deployment"  && \
 	git push "https://${GITHUB_KEY}@github.com/centilliard/401.git" gh-pages
 
 .git:
