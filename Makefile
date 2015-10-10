@@ -4,7 +4,7 @@ BUILD_DIR=build
 
 minify:
 	mkdir -p ${BUILD_DIR}
-	echo "Hello, 401!" >> ${BUILD_DIR}/index.html
+	echo "Hello, 401 Tavern!" >> ${BUILD_DIR}/index.html
 
 deploy: .git
 	echo "Deploying to github..."
