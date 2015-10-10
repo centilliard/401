@@ -14,9 +14,10 @@ deploy: .git
 	git status
 	cp -rv ${BUILD_DIR}/* .
 	ls -al
-	git status | grep "nothing to commit" && exit 0
-	git add .
-	git commit -a -m "Automatic web deployment" || exit 0
+	git status
+	git status | grep "nothing to commit" || \
+	git add . \
+	git commit -a -m "Automatic web deployment"  \
 	git push "https://${GITHUB_KEY}@github.com/centilliard/401.git" gh-pages
 
 .git:
