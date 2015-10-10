@@ -7,7 +7,6 @@ minify:
 	echo "Hello, 401 Tavern!" >> ${BUILD_DIR}/index.html
 
 deploy: .git
-	echo "Deploying to github..."
 	git remote set-branches --add origin gh-pages
 	git fetch
 	git checkout gh-pages
