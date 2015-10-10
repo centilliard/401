@@ -1,5 +1,7 @@
 BUILD_DIR=build
 
+.PHONY: .git
+
 minify:
 	echo "Minifying resources..."
 	mkdir ${BUILD_DIR}
