@@ -3,6 +3,7 @@ BUILD_DIR=build
 .PHONY: .git
 
 minify:
+	python --version
 	mkdir -p ${BUILD_DIR}
 	echo "Hello, 401 Tavern!" >> ${BUILD_DIR}/index.html
 
