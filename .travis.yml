@@ -1,7 +1,0 @@
-language: bash
-
-before_script:
-    - make minify
-
-script: 
-    - make deploy
