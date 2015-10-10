@@ -6,7 +6,7 @@ minify:
 	
 deploy: .git
 	echo "Deploying to github..."
-	git checkout -b gh-pages
+	git checkout gh-pages
 	git pull origin gh-pages
 	git status
 	git commit -a -m "Automatic web deployment"
