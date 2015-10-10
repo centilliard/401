@@ -6,8 +6,8 @@ minify:
 	
 deploy: .git
 	echo "Deploying to github..."
+	git fetch origin gh-pages
 	git checkout gh-pages
-	git pull origin gh-pages
 	git status
 	git commit -a -m "Automatic web deployment"
 	git push "https://${GITHUB_KEY}@github.com/centilliard/401.git" gh-pages
