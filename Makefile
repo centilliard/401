@@ -6,7 +6,8 @@ minify:
 	
 deploy: .git
 	echo "Deploying to github..."
-	git fetch origin gh-pages
+	git remote set-branches --add origin gh-pages
+	git fetch
 	git checkout gh-pages
 	git status
 	git commit -a -m "Automatic web deployment"
