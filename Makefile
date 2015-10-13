@@ -1,3 +1,4 @@
+SRC_DIR=src
 BUILD_DIR=build
 
 .PHONY: .git
@@ -5,7 +6,7 @@ BUILD_DIR=build
 minify:
 	python --version
 	mkdir -p ${BUILD_DIR}
-	echo "Hello, 401 Tavern!" >> ${BUILD_DIR}/index.html
+	cp ${SRC_DIR}/* ${BUILD_DIR}/
 
 deploy: .git
 	git remote set-branches --add origin gh-pages
@@ -15,10 +16,13 @@ deploy: .git
 	cp -rv ${BUILD_DIR}/* .
 	ls -al
 	git status
-	git status | grep "nothing to commit" || \
-	git add . && \
-	git commit -a -m "Automatic web deployment"  && \
-	git push "https://${GITHUB_KEY}@github.com/centilliard/401.git" gh-pages
+	@if ! git status | grep -q "nothing to commit"; then \
+      git add . && \
+      git commit -a -m "Automatic web deployment"  && \
+      git push "https://${GITHUB_KEY}@github.com/centilliard/401.git" gh-pages; \
+    else \
+      echo "Nothing to do."; \
+    fi
 
 .git:
 	git config user.email "${GITHUB_USER_EMAIL}"
