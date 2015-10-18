@@ -4,10 +4,10 @@ BUILD_DIR=build
 .PHONY: .git .dirs .tools .scss .html build deploy
 
 build: .dirs .tools .scss .html
-	pushd ${BUILD_DIR}
+	cd ${BUILD_DIR}
 	find .
 	sed -i -e '/__HEADER_CSS__/{r styles/header.css' -e 'd}' index.html #inject header CSS
-	popd
+	cd -
 
 deploy: .git
 	git remote set-branches --add origin gh-pages
