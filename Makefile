@@ -34,7 +34,7 @@ deploy: .git
 
 .tools:
 	gem install sass
-   	sass --version
+	sass --version
 
 .scss: ${BUILD_DIR}/styles/header.css ${BUILD_DIR}/styles/body.css
 
