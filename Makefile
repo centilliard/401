@@ -35,6 +35,8 @@ deploy: .git
 
 .scss: ${BUILD_DIR}/styles/header.css ${BUILD_DIR}/styles/body.css
 
+.html: ${BUILD_DIR}/index.html
+
 ${BUILD_DIR}/styles/%.css: ${SRC_DIR}/styles/%.scss
 	mkdir -p "$(@D)"
 	sass --scss --style compressed --no-cache --sourcemap=none "$<" "$@"
