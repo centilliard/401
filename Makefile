@@ -1,13 +1,13 @@
 SRC_DIR=src
 BUILD_DIR=build
 
-.PHONY: .git
+.PHONY: .git .dirs .tools .scss .html build deploy
 
-minify:
-	gem install sass
-	sass --version
-	mkdir -p ${BUILD_DIR}
-	cp -rvT ${SRC_DIR} ${BUILD_DIR}
+build: .dirs .tools .scss .html
+	pushd ${BUILD_DIR}
+	find .
+	sed -i -e '/__HEADER_CSS__/{r styles/header.css' -e 'd}' index.html #inject header CSS
+	popd
 
 deploy: .git
 	git remote set-branches --add origin gh-pages
@@ -28,3 +28,19 @@ deploy: .git
 .git:
 	git config user.email "${GITHUB_USER_EMAIL}"
 	git config user.name "${GITHUB_USER_NAME}"
+
+.dirs:
+	mkdir -p "${BUILD_DIR}"
+
+.tools:
+	gem install sass
+   	sass --version
+
+.scss: ${BUILD_DIR}/styles/header.css ${BUILD_DIR}/styles/body.css
+
+${BUILD_DIR}/styles/%.css: ${SRC_DIR}/styles/%.scss
+	mkdir -p "$(@D)"
+	sass --scss --style compressed --no-cache --sourcemap=none "$<" "$@"
+
+${BUILD_DIR}/%.html: ${SRC_DIR}/%.html
+	cp -v "$<? "$@"

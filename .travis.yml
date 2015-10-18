@@ -1,7 +1,7 @@
 language: bash
 
 before_script:
-    - make minify
+    - make build
 
 script: 
     - make deploy
