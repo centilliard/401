@@ -4,9 +4,8 @@ BUILD_DIR=build
 .PHONY: .git
 
 minify:
-	python --version
 	mkdir -p ${BUILD_DIR}
-	cp ${SRC_DIR}/* ${BUILD_DIR}/
+	cp -rT ${SRC_DIR} ${BUILD_DIR}
 
 deploy: .git
 	git remote set-branches --add origin gh-pages
