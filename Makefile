@@ -5,15 +5,15 @@ BUILD_DIR=build
 
 minify:
 	mkdir -p ${BUILD_DIR}
-	cp -rT ${SRC_DIR} ${BUILD_DIR}
+	cp -rvT ${SRC_DIR} ${BUILD_DIR}
 
 deploy: .git
 	git remote set-branches --add origin gh-pages
 	git fetch
 	git checkout gh-pages
 	git status
-	cp -rv ${BUILD_DIR}/* .
-	ls -al
+	cp -rvT ${BUILD_DIR} .
+	ls -hal
 	git status
 	@if ! git status | grep -q "nothing to commit"; then \
       git add . && \
