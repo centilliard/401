@@ -42,4 +42,4 @@ ${BUILD_DIR}/styles/%.css: ${SRC_DIR}/styles/%.scss
 	sass --scss --style compressed --no-cache --sourcemap=none "$<" "$@"
 
 ${BUILD_DIR}/%.html: ${SRC_DIR}/%.html
-	cp -v "$<? "$@"
+	cp -v "$<" "$@"
