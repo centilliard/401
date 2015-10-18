@@ -4,6 +4,7 @@ BUILD_DIR=build
 .PHONY: .git
 
 minify:
+	sass --version
 	mkdir -p ${BUILD_DIR}
 	cp -rvT ${SRC_DIR} ${BUILD_DIR}
 
