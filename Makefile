@@ -10,7 +10,7 @@ CLOSURE_COMPILER=${BIN_DIR}/compiler-20151015.jar
 
 build: .dirs .tools .scss .html
 	sed -i -e "/__HEADER_CSS__/{r ${BUILD_DIR}/styles/header.css" -e 'd}' ${BUILD_DIR}/index.html #inject header CSS
-	java -jar ${HTML_COMPRESSOR} ${BUILD_DIR}/index.html ${BUILD_DIR}/index.html                  #compress final HTML
+	java -jar ${HTML_COMPRESSOR} ${BUILD_DIR}/index.html -o ${BUILD_DIR}/index.html               #compress final HTML
 
 deploy: .git
 	git remote set-branches --add origin gh-pages
