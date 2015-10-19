@@ -4,7 +4,7 @@ BIN_DIR=bin
 
 HTML_COMPRESSOR=${BIN_DIR}/htmlcompressor-1.5.3.jar
 HTML_OPTS=--remove-intertag-spaces --remove-quotes --remove-style-attr --remove-link-attr --remove-script-attr \
-          --remove-form-attr --remove-input-attr --simple-bool-attr
+          --remove-form-attr --remove-input-attr --simple-bool-attr --remove-surrounding-spaces style
 YUI_COMPRESSOR=${BIN_DIR}/yuicompressor-2.4.8.jar
 CLOSURE_COMPILER=${BIN_DIR}/compiler-20151015.jar
 
