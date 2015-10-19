@@ -4,7 +4,7 @@ BIN_DIR=bin
 
 HTML_COMPRESSOR=${BIN_DIR}/htmlcompressor-1.5.3.jar
 HTML_OPTS=--remove-intertag-spaces --remove-quotes --remove-style-attr --remove-link-attr --remove-script-attr \
-          --remove-form-attr --remove-input-attr --simple-bool-attr --remove-surrounding-spaces style
+          --remove-form-attr --remove-input-attr --simple-bool-attr
 YUI_COMPRESSOR=${BIN_DIR}/yuicompressor-2.4.8.jar
 CLOSURE_COMPILER=${BIN_DIR}/compiler-20151015.jar
 
@@ -13,6 +13,8 @@ CLOSURE_COMPILER=${BIN_DIR}/compiler-20151015.jar
 build: .dirs .tools .scss .html
 	sed -i -e "/__HEADER_CSS__/{r ${BUILD_DIR}/styles/header.css" -e 'd}' ${BUILD_DIR}/index.html #inject header CSS
 	java -jar ${HTML_COMPRESSOR} ${HTML_OPTS} ${BUILD_DIR}/index.html -o ${BUILD_DIR}/index.html  #compress final HTML
+	tr "\n\r" < ${BUILD_DIR}/index.html > ${BUILD_DIR}/index.html.tr                              #remove all newlines
+	cp ${BUILD_DIR}/index.html.tr ${BUILD_DIR}/index.html && rm -fv ${BUILD_DIR}/index.html.tr    #remove temp file
 
 deploy: .git
 	git remote set-branches --add origin gh-pages
