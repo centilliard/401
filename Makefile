@@ -10,7 +10,7 @@ CLOSURE_COMPILER=${BIN_DIR}/compiler-20151015.jar
 
 .PHONY: .git .dirs .tools .scss .html build deploy
 
-build: .dirs .tools .scss .html
+build: .dirs .tools .scss .html .img
 	sed -i -e "/__HEADER_CSS__/{r ${BUILD_DIR}/styles/header.css" -e 'd}' ${BUILD_DIR}/index.html #inject header CSS
 	java -jar ${HTML_COMPRESSOR} ${HTML_OPTS} ${BUILD_DIR}/index.html -o ${BUILD_DIR}/index.html  #compress final HTML
 	tr -d "\n\r" < ${BUILD_DIR}/index.html > ${BUILD_DIR}/index.html.tr                           #remove all newlines
@@ -46,6 +46,9 @@ deploy: .git
 .scss: ${BUILD_DIR}/styles/header.css ${BUILD_DIR}/styles/body.css
 
 .html: ${BUILD_DIR}/index.html
+
+.img:
+	@cp -r ${SRC_DIR}/images ${BUILD_DIR}/
 
 ${BUILD_DIR}/styles/%.css: ${SRC_DIR}/styles/%.scss
 	mkdir -p "$(@D)"
