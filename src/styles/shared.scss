@@ -1,0 +1,84 @@
+$pageXS: 320px; //iPhone
+$pageS: 375px; //iPhone 6
+$pageM: 540px; //wide enough for the header to be single line
+$pageL: $pageM + 1;
+
+$logoW: 10rem;
+$logoH: 7.6rem;
+
+$spaceXS: 0.5rem;
+$spaceS: 0.75rem;
+$spaceM: 1rem;
+$spaceL: 2rem;
+$spaceXL: 3rem;
+
+$textM: 1rem;
+$textL: 2rem;
+$textXL: 3rem;
+$text2XL: 4rem;
+$text3XL: 5rem;
+$text4XL: 6rem;
+$text5XL: 7rem;
+$text6XL: 8rem;
+
+$fontSansSerif: 'Dosis', 'Lucida Sans', 'Tahoma', 'Arial', sans-serif;
+$fontSerif: 'Palatino', 'Palatino Linotype', 'Palatino LT STD', 'Georgia', serif;
+$fontBrand: 'Times New Roman', serif;
+$fontCursive: 'Great Vibes', 'Georgia', cursive;
+
+$bold: 700;
+
+$white: #faebd7;
+$white_hover: #ffd399;
+$gray: #302d29;
+$gray_light: #c3baae;
+$gray_hover: #807669;
+$black: #272522;
+$shadow: $black;
+
+$Z_MAX: 100;
+
+%bg {
+  background-size: cover;
+}
+
+%page {
+  margin: 0 auto;
+  text-align: center;
+}
+
+@mixin bg($urlS, $urlXL, $start: 0.1, $end: 0.6, $startAt:top, $endAt: bottom) {
+  $from: rgba(0, 0, 0, $start);
+  $to: rgba(0, 0, 0, $end);
+  background-image: $urlS;
+
+  @media screen and (min-width: $pageM) {
+    background-image: -webkit-gradient(linear, left $startAt, left $endAt, from($from), to($to)), $urlXL;
+    background-image: -webkit-linear-gradient($startAt, $from, $to), $urlXL;
+    background-image: -moz-linear-gradient($startAt, $from, $to), $urlXL;
+    background-image: -o-linear-gradient($startAt, $from, $to), $urlXL;
+    background-image: linear-gradient(to $endAt, $from, $to), $urlXL;
+  }
+}
+
+@mixin bg-vignette($urlS, $urlXL, $start: 0.1, $end: 0.6, $color: rgb(0,0,0), $shape: circle, $destination: farthest-corner) {
+  background-image: $urlS;
+
+  $from: change_color($color, $alpha: $start);
+  $to: change_color($color, $alpha: $end);
+
+  @media screen and (min-width: $pageS) {
+    background-image: -webkit-radial-gradient($shape $destination, $from 0%, $to 100%), $urlXL;
+    background-image: -moz-radial-gradient($shape $destination, $from 0%, $to 100%), $urlXL;
+    background-image: -o-radial-gradient($shape $destination, $from 0%, $to 100%), $urlXL;
+    background-image: radial-gradient($shape $destination, $from 0%, $to 100%), $urlXL;
+  }
+}
+
+@mixin hr($color) {
+  background-image: linear-gradient(to right,
+          change_color($color, $alpha: 0),
+          change_color($color, $alpha: 0.75),
+          change_color($color, $alpha: 0)
+  );
+}

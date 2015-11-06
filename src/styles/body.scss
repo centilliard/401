@@ -1,1 +1,100 @@
 @import 'shared';
+
+.cell-2 {
+  display: inline-block;
+  width: 50%;
+  vertical-align: middle;
+  padding: $spaceL;
+
+  @media screen and (max-width: $pageM) {
+    display: block;
+    width: 100%;
+    padding: $spaceXS;
+  }
+}
+
+h1 {
+  font-family: $fontCursive;
+  font-size: $textXL;
+  font-style: italic;
+
+  @media screen and (min-width: $pageS) {
+    font-style: normal;
+    font-size: $text4XL;
+  }
+}
+
+p {
+  font-family: $fontSerif;
+  font-size: $textL - 0.5;
+  line-height: $textL;
+  padding: $spaceM;
+}
+
+.frame {
+  padding: $spaceM;
+  background-color: $white;
+  display: inline-block;
+  border-radius: 0.33rem;
+  box-shadow: 0.1rem 0.2rem 0.6rem $shadow;
+  text-align: center;
+
+  img {
+    width: 100%;
+  }
+
+  h1 {
+    padding-top: $spaceL;
+  }
+}
+
+.page-tavern {
+  background-color: change_color($white, $alpha: 0.75);
+  border-top: $spaceXS solid $white;
+  border-bottom: $spaceXS solid $white;
+  padding: $spaceXL*2 $spaceM $spaceXL*2 $spaceM;
+
+  @media screen and (max-width: $pageS) {
+    border-top-width: 0.1rem;
+    border-bottom-width: 0.1rem;
+    padding: $spaceM 0 $spaceL 0;
+  }
+
+  .photo {
+    text-align: right;
+
+    .frame {
+      max-width: 60rem;
+    }
+  }
+
+  .description p {
+    max-width: 40rem;
+    text-align: left;
+  }
+}
+
+.bg-loft {
+  @extend %bg;
+  @include bg(url('../images/bg-loft-570.jpg'),
+          url('../images/bg-loft.jpg'), 0.2, 0.3);
+}
+
+.page-loft {
+  height: 125vh;
+
+  h1 {
+    position: relative;
+    top: 33vh;
+    color: $white;
+    text-shadow: 0.2rem 0.2rem 1rem $shadow;
+
+    @media screen and (min-width: $pageS) {
+      font-size: $text3XL;
+    }
+
+    @media screen and (min-width: $pageM) {
+      font-size: $text6XL;
+    }
+  }
+}

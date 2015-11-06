@@ -2,13 +2,91 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>The 401 Tavern</title>
-    <link rel="stylesheet" property="stylesheet" type="text/css" href="styles/header.css">
-    <link rel="stylesheet" property="stylesheet" type="text/css" href="styles/body.css" lazyload>
+    <link rel="stylesheet" type="text/css" href="styles/header.css">
+
 </head>
-<body>
-<div>
-    (c) 2015 The 401 Tavern
+<body class="bg-home static">
+<header>
+    <!--
+    --><a href="#" class="logo"></a><!--
+        --><a href="#menu">menu</a><!--
+        --><a href="#about">about</a><!--
+        --><a href="#directions">directions</a>
+</header>
+<div class="page-full">
+    <section class="card">
+        <h2>Food * Drinks * People</h2>
+
+        <h1><!--
+            --><span>T</span><!--
+            --><span style="letter-spacing: 0.01em">H</span><!--
+            --><span>E</span><!--
+            --><span style="letter-spacing: 0.05em">&nbsp;</span><!--
+            --><span style="letter-spacing: 0.03em">4</span><!--
+            --><span style="letter-spacing: -0.03em">0</span><!--
+            --><span>1</span><!--
+            --><span style="letter-spacing: 0em">&nbsp;</span><!--
+            --><span style="letter-spacing: -0.05em">T</span><!--
+            --><span style="letter-spacing:-0.15em">A</span><!--
+            --><span style="letter-spacing: 0.02em">V</span><!--
+            --><span style="letter-spacing: 0.02em">E</span><!--
+            --><span style="letter-spacing: 0.05em">R</span><!--
+            --><span>N</span>
+        </h1>
+        <hr class="hr-white">
+        <p>401 Hampton Road, Hampton, NH</p>
+
+        <p>(603) 926-8800</p>
+    </section>
 </div>
+
+<!-- FOLD -->
+<link rel="stylesheet" type="text/css" href="styles/body.css" property="stylesheet">
+
+<section id="about" class="bg-tavern page-tavern">
+    <div class="cell-2 photo">
+        <div class="frame">
+            <img src="images/bg-tavern_600.jpg" alt="The 401 Tavern">
+
+            <h1>The Old Tavern</h1>
+        </div>
+    </div><!--
+    --><div class="cell-2 description">
+        <p>Built in the 1600's the 401 has an unparalleled history. The 401 has been a favorite of local residents as
+            well as politicians, sports figures, travelers, and many celebrities.</p>
+
+        <p>A story lies behind every knick-knack and antique you see on the shelves throughout the bar whether it is the
+            bobby hat, an old telephone, books like “Living Single,” or a golf club in memory of someone special to The
+            401 Tavern.</p>
+
+        <p>Located on Route 1 in Hampton New Hampshire the tavern takes you back in time reviving a simpler time gone by
+            when life had a slower pacer, and people cared about integrity, and life's pleasures were simpler and more
+            innocent.</p>
+    </div>
+</section>
+
+<section class="bg-loft page-full static page-loft">
+    <h1>The Wine Loft</h1>
+</section>
+
+<footer>
+    (c) 2015 The 401 Tavern
+</footer>
+
+<script>
+    var hasScrolled = false;
+    var cutoff = 50;
+    window.onscroll = function () {
+        if (hasScrolled && window.scrollY <= cutoff) {
+            hasScrolled = false;
+            document.getElementsByTagName('header')[0].classList.remove('header-small');
+        } else if (!hasScrolled && window.scrollY > cutoff) {
+            hasScrolled = true;
+            document.getElementsByTagName('header')[0].classList.add('header-small');
+        }
+    }
+</script>
 </body>
 </html>

@@ -1,2 +1,201 @@
-@import 'shared';
 @import 'reset';
+@import 'shared';
+
+//iPhone 6+ will use fancy fonts
+@import url('http://fonts.googleapis.com/css?family=Dosis:400|Great+Vibes:400') screen and (min-width: $pageS);
+
+html {
+  font-size: 62.5%; //1rem = 10px
+}
+
+body {
+  min-width: $pageXS;
+  background-color: $black;
+  font-size: $textM;
+  font-family: $fontSerif;
+}
+
+header {
+  position: fixed;
+  top: 0;
+  left:0;
+  min-width: $pageXS;
+  width: 100%;
+  font-family: $fontSansSerif;
+  font-size: $textM + 0.75;
+  text-align: center;
+
+  @media screen and (min-width: $pageM) {
+    font-size: $textL + 0.75;
+    padding-right: $spaceXS + $logoW/2;
+  }
+
+  a {
+    display: inline-block;
+    margin: $spaceXS;
+    color: $white;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-shadow: 0 1px 0 black;
+    vertical-align: middle;
+
+    @media screen and (min-width: $pageS) {
+      margin:$spaceXS $spaceM $spaceXS $spaceM;
+    }
+  }
+
+  a:hover {
+    color: $white_hover;
+    text-decoration: underline;
+  }
+
+  .logo {
+    width: $logoW / 2;
+    height: $logoH / 2;
+    padding: 0;
+    background-image: url('../images/logo.png');
+    background-size: 100%;
+
+    @media screen and (min-width: $pageM) {
+      width: $logoW;
+      height: $logoH;
+      margin-right: $spaceM;
+    }
+  }
+}
+
+.header-small {
+  z-index: $Z_MAX;
+  box-shadow: 0.1rem 0.1rem 1rem;
+  //padding-top: $spaceXS;
+  //padding-bottom: $spaceXS;
+
+  a {
+    color: $gray_light;
+  }
+
+  a:hover {
+    color: $white_hover;
+  }
+
+  @media screen and (max-width: $pageXS) {
+    background-color: $gray;
+  }
+
+  @media screen and (min-width: $pageXS + 1) {
+    @include bg-vignette(none, none, 1, 0.5, $gray);
+  }
+
+  @media screen and (min-width: $pageM) {
+    font-size: $textL;
+    padding-right: $spaceXS + ($logoW/2)/2;
+
+    a {
+      margin: $spaceXS $spaceM $spaceXS $spaceM;
+    }
+
+    .logo {
+      width: $logoW / 2;
+      height: $logoH / 2;
+    }
+  }
+}
+
+.bg-home {
+  @extend %bg;
+  @include bg(url('../images/home_375.jpg'),
+              url('../images/home.jpg'), 0.6, 0.2);
+}
+
+.static {
+  background-attachment: fixed;
+}
+
+.page-full {
+  @extend %page;
+  height: 100vh;
+  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAG0lEQVQIW2NkYGD4z8DAwMgABXAGNgGwSgwVAFbmAgXxvZSoAAAAAElFTkSuQmCC);
+  background-repeat: repeat;
+}
+
+.card {
+  position: relative;
+  display: inline-block;
+  top: 20rem;
+  margin: 0 auto;
+  text-shadow: 0.1rem 0.1rem 0.6rem $shadow;
+  color: $white;
+
+  @media screen and (min-width: $pageS) {
+    top: 33vh;
+  }
+
+  h2 {
+    font-family: $fontCursive;
+    font-size: $textL + 0.5;
+    font-style: italic;
+    text-transform: lowercase;
+
+    @media screen and (min-width: $pageS) {
+      font-size: $textXL;
+      font-style: normal;
+      text-transform: none;
+      padding: $spaceXS;
+    }
+
+    @media screen and (min-width: $pageL) {
+      font-size: $text3XL;
+      padding: $spaceM;
+    }
+  }
+
+  h1 {
+    font-family: $fontBrand;
+    font-size: $textXL + 0.5;
+    font-weight: $bold;
+    text-transform: uppercase;
+    font-style: normal;
+    padding-top: $spaceL;
+    padding-bottom: $spaceXS;
+
+    //small screens
+    @media screen and (min-width: $pageS) {
+      font-size: $text2XL;
+    }
+
+    //large screens
+    @media screen and (min-width: $pageL) {
+      font-size: $text4XL;
+      padding-bottom: $spaceL;
+    }
+  }
+
+  p {
+    font-family: $fontSansSerif;
+    font-size: $textM + 0.5;
+    padding: $spaceXS;
+
+    @media screen and (min-width: $pageS) {
+      font-size: $textL;
+    }
+
+    @media screen and (min-width: $pageL) {
+      font-size: $textL + 0.5;
+      padding-top: $spaceL;
+    }
+  }
+}
+
+hr {
+  border: 0;
+  height: 1px;
+}
+
+.hr-white {
+  @include hr($white);
+}
+
+
+footer {
+  padding: 5rem;
+}
