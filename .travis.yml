@@ -5,3 +5,7 @@ before_script:
 
 script: 
     - make deploy
+
+addons:
+  apt_packages:
+    - pandoc
