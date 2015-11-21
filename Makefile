@@ -8,7 +8,7 @@ HTML_OPTS=--remove-intertag-spaces --remove-quotes --remove-style-attr --remove-
 YUI_COMPRESSOR=${BIN_DIR}/yuicompressor-2.4.8.jar
 CLOSURE_COMPILER=${BIN_DIR}/compiler-20151015.jar
 
-.PHONY: .git .dirs .tools .scss .html build deploy
+.PHONY:  build deploy .git .dirs .tools .scss .html .img .menu
 
 build: .dirs .tools .scss .html .img .menu
 	sed -i -e "/__HEADER_CSS__/{r ${BUILD_DIR}/styles/header.css" -e 'd}' ${BUILD_DIR}/index.html #inject header CSS
