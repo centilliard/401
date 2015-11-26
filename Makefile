@@ -62,5 +62,4 @@ ${BUILD_DIR}/%.html: ${SRC_DIR}/%.html
 	
 ${BUILD_DIR}/menu/%.html: ${SRC_DIR}/menu/%.md
 	mkdir -p "$(@D)"
-	pandoc --help
-	pandoc -f markdown -t html "$<" > "$@"
+	markdown "$<" > "$@"
