@@ -106,7 +106,7 @@ p {
   margin: 0 auto;
   
   h1 {
-    font-family: Dosis, 'Lucida Sans', Tahoma, Arial, sans-serif;
+    font-family: $fontSansSerif;
     font-size: $textXL;
     text-align: center;
     margin-top: $spaceM;
@@ -114,7 +114,7 @@ p {
   
   h2 {
     font-size: 1.5rem;
-    border-bottom: 0.1rem dotted #ccc;
+    border-bottom: 0.1rem dotted $gray;
     margin-top: $spaceL;
   }
   
