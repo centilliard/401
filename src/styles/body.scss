@@ -98,3 +98,61 @@ p {
     }
   }
 }
+
+#menu {
+  background-color: white;
+  padding: $spaceL;
+  max-width: 60rem;
+  margin: 0 auto;
+  
+  h1 {
+    font-family: Dosis, 'Lucida Sans', Tahoma, Arial, sans-serif;
+    font-size: $textXL;
+    text-align: center;
+    margin-top: $spaceM;
+  }
+  
+  h2 {
+    font-size: 1.5rem;
+    border-bottom: 0.1rem dotted #ccc;
+    margin-top: $spaceL;
+  }
+  
+  h3 {
+    font-size: 1.5rem;
+    color: $gray;
+  }
+  
+  h4 {
+    font-size: $textL;
+    margin-top: $spaceXL;
+  }
+  
+  p {
+    padding: $spaceM 0;
+    color: $gray;
+  }
+  
+  ul {
+    font-size: 1.5rem;
+    margin: $spaceM auto;
+    border: 0.1rem dashed $gray;
+    padding: $spaceXS $spaceXS 0 $spaceXS;
+    width: 50%;
+    
+    li {
+      padding: $spaceXS;
+    }
+  }
+  
+  h3 + ul {
+    margin: 0;
+    border: none;
+    color: $gray;
+    width: 33%;
+    
+    li {
+      padding: 0;
+    }
+  }
+}
