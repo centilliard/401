@@ -116,6 +116,10 @@ p {
     font-size: 1.5rem;
     border-bottom: 0.1rem dotted $gray;
     margin-top: $spaceL;
+    
+    em {
+      float: right;
+    }
   }
   
   h3 {
