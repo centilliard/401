@@ -13,23 +13,49 @@
   }
 }
 
+.cell-3 {
+  display: inline-block;
+  width: 33.33%;
+  height: 100%;
+  vertical-align: middle;
+  padding: $spaceL;
+
+  @media screen and (max-width: $pageM) {
+    display: block;
+    width: 100%;
+    padding: $spaceXS;
+  }
+}
+
+.cell-3:first-child {
+  border-left:5px solid #000;
+}
+
 h1 {
   font-family: $fontCursive;
   font-size: $textXL;
   font-style: italic;
+  padding: $spaceL 0 $spaceL 0;
+  text-align: center;
+  border-top: $spaceXS solid $gray_light;
+  border-bottom: $spaceXS solid $gray_light;
+  text-shadow: 2px 2px 2px $gray_light;
 
   @media screen and (min-width: $pageS) {
     font-style: normal;
-    font-size: $text4XL;
+    font-size: $text3XL;
+    padding: $spaceXL 0 $spaceXL 0;
   }
 }
 
 p {
   font-family: $fontSerif;
-  font-size: $textL - 0.5;
-  line-height: $textL;
+  font-size: $textL;
+  line-height: $textL + 0.5;
   padding: $spaceM;
 }
+
+// -- YE OLD TAVERN --
 
 .frame {
   padding: $spaceM;
@@ -50,14 +76,11 @@ p {
 
 .page-tavern {
   background-color: change_color($white, $alpha: 0.75);
-  border-top: $spaceXS solid $white;
-  border-bottom: $spaceXS solid $white;
-  padding: $spaceXL*2 $spaceM $spaceXL*2 $spaceM;
+  padding-bottom: $spaceL;
 
-  @media screen and (max-width: $pageS) {
-    border-top-width: 0.1rem;
-    border-bottom-width: 0.1rem;
-    padding: $spaceM 0 $spaceL 0;
+  h1 {
+    background: $white url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAHElEQVQIW2M8vGvdf1u3IEYGKIAzMARgKjFUAABeTQgF7IlyLgAAAABJRU5ErkJggg==');
+    color: $gray;
   }
 
   .photo {
@@ -69,10 +92,60 @@ p {
   }
 
   .description p {
-    max-width: 40rem;
+    max-width: 50rem;
     text-align: left;
   }
 }
+
+// -- BAR --
+
+.page-bar {
+  border-bottom: $spaceXS solid $shadow;
+
+  h1 {
+    background: $gray url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAG0lEQVQIW2NkYGD4z8DAwMgABXAGNgGwSgwVAFbmAgXxvZSoAAAAAElFTkSuQmCC);
+    border-color: $shadow;
+    color: $white;
+    text-shadow: 0.1rem 0.1rem 0.1rem $shadow;
+  }
+
+  .bar-pics {
+    height: 60rem;
+    background-color: $shadow;
+
+    .cell-3 {
+      padding: 0;
+    }
+  }
+
+  .page-bar-left {
+    display: none;
+  }
+
+  .page-bar-center {
+    background: url('../images/bg-bar1.jpg') center no-repeat;
+    border-left: $spaceXS solid $shadow;
+    border-right: $spaceXS solid $shadow;
+  }
+
+  .page-bar-right {
+    display: none;
+  }
+
+  @media screen and (min-width: $pageM) {
+    .page-bar-left {
+      background: url('../images/bg-bar4.jpg') center no-repeat;
+      display: inline-block;
+    }
+
+    .page-bar-right {
+      background: url('../images/bg-bar3.jpg') center no-repeat;
+      display: inline-block;
+    }
+  }
+}
+
+// -- WINE LOFT --
 
 .bg-loft {
   @extend %bg;
@@ -82,16 +155,14 @@ p {
 
 .page-loft {
   height: 125vh;
+  padding: $spaceXL;
 
   h1 {
     position: relative;
     top: 33vh;
+    border: none;
     color: $white;
     text-shadow: 0.2rem 0.2rem 1rem $shadow;
-
-    @media screen and (min-width: $pageS) {
-      font-size: $text3XL;
-    }
 
     @media screen and (min-width: $pageM) {
       font-size: $text6XL;

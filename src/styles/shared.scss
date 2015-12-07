@@ -53,10 +53,6 @@ $Z_MAX: 100;
   background-image: $urlS;
 
   @media screen and (min-width: $pageM) {
-    background-image: -webkit-gradient(linear, left $startAt, left $endAt, from($from), to($to)), $urlXL;
-    background-image: -webkit-linear-gradient($startAt, $from, $to), $urlXL;
-    background-image: -moz-linear-gradient($startAt, $from, $to), $urlXL;
-    background-image: -o-linear-gradient($startAt, $from, $to), $urlXL;
     background-image: linear-gradient(to $endAt, $from, $to), $urlXL;
   }
 }
@@ -68,9 +64,6 @@ $Z_MAX: 100;
   $to: change_color($color, $alpha: $end);
 
   @media screen and (min-width: $pageS) {
-    background-image: -webkit-radial-gradient($shape $destination, $from 0%, $to 100%), $urlXL;
-    background-image: -moz-radial-gradient($shape $destination, $from 0%, $to 100%), $urlXL;
-    background-image: -o-radial-gradient($shape $destination, $from 0%, $to 100%), $urlXL;
     background-image: radial-gradient($shape $destination, $from 0%, $to 100%), $urlXL;
   }
 }

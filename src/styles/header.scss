@@ -107,6 +107,11 @@ header {
               url('../images/home.jpg'), 0.6, 0.2);
 }
 
+.bg-dotted {
+  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAG0lEQVQIW2NkYGD4z8DAwMgABXAGNgGwSgwVAFbmAgXxvZSoAAAAAElFTkSuQmCC);
+  background-repeat: repeat;
+}
+
 .static {
   background-attachment: fixed;
 }
@@ -114,8 +119,6 @@ header {
 .page-full {
   @extend %page;
   height: 100vh;
-  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAG0lEQVQIW2NkYGD4z8DAwMgABXAGNgGwSgwVAFbmAgXxvZSoAAAAAElFTkSuQmCC);
-  background-repeat: repeat;
 }
 
 .card {
@@ -155,8 +158,10 @@ header {
     font-weight: $bold;
     text-transform: uppercase;
     font-style: normal;
-    padding-top: $spaceL;
+    margin-top: $spaceM;
+    padding-top: $spaceXS;
     padding-bottom: $spaceXS;
+    border-color: $white;
 
     //small screens
     @media screen and (min-width: $pageS) {
@@ -186,16 +191,6 @@ header {
   }
 }
 
-hr {
-  border: 0;
-  height: 1px;
-}
-
-.hr-white {
-  @include hr($white);
-}
-
-
 footer {
-  padding: 5rem;
+  padding: $spaceXL;
 }
