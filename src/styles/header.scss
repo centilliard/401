@@ -171,7 +171,8 @@ header {
     //large screens
     @media screen and (min-width: $pageL) {
       font-size: $text4XL;
-      padding-bottom: $spaceL;
+      padding-top: $spaceM;
+      padding-bottom: $spaceM;
     }
   }
 
