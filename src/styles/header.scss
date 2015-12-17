@@ -1,6 +1,5 @@
 @import 'reset';
 @import 'shared';
-
 //iPhone 6+ will use fancy fonts
 @import url('http://fonts.googleapis.com/css?family=Dosis:400|Great+Vibes:400') screen and (min-width: $pageS);
 
@@ -18,7 +17,7 @@ body {
 header {
   position: fixed;
   top: 0;
-  left:0;
+  left: 0;
   min-width: $pageXS;
   width: 100%;
   font-family: $fontSansSerif;
@@ -40,7 +39,7 @@ header {
     vertical-align: middle;
 
     @media screen and (min-width: $pageS) {
-      margin:$spaceXS $spaceM $spaceXS $spaceM;
+      margin: $spaceXS $spaceM $spaceXS $spaceM;
     }
   }
 
@@ -67,8 +66,6 @@ header {
 .header-small {
   z-index: $Z_MAX;
   box-shadow: 0.1rem 0.1rem 1rem;
-  //padding-top: $spaceXS;
-  //padding-bottom: $spaceXS;
 
   a {
     color: $gray_light;
@@ -104,7 +101,7 @@ header {
 .bg-home {
   @extend %bg;
   @include bg(url('../images/home_375.jpg'),
-              url('../images/home.jpg'), 0.6, 0.2);
+          url('../images/home.jpg'), 0.6, 0.2);
 }
 
 .bg-dotted {

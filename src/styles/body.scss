@@ -28,7 +28,7 @@
 }
 
 .cell-3:first-child {
-  border-left:5px solid #000;
+  border-left: 5px solid #000;
 }
 
 h1 {
@@ -171,61 +171,122 @@ p {
 }
 
 #menu {
+  background-color: $white;
+
+  h1 {
+    border-color: $gray_light;
+    background: $white url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAHElEQVQIW2M8vGvdf1u3IEYGKIAzMARgKjFUAABeTQgF7IlyLgAAAABJRU5ErkJggg==');
+  }
+}
+
+.menu-nav {
+  text-align: center;
+  margin: 0 auto;
+
+  a {
+    display: block;
+    border-bottom: 0.1rem solid $white_hover;
+    padding: $spaceM;
+
+    font-size: $textL;
+    font-family: $fontSerif;
+    color: $gray_hover;
+    background-color: $off-white;
+
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+
+    @media screen and (min-width: $pageS) {
+      display: inline-block;
+      padding: $spaceL;
+      margin-right: $spaceL;
+      margin-bottom: $spaceL;
+      min-width: 15rem;
+      border: 0.1rem solid $white_hover;
+    }
+  }
+
+  a:hover, a.selected {
+    color: $gray;
+    background-color: $white_hover;
+
+    @media screen and (min-width: $pageS) {
+      border: 0.1rem solid $off-white;
+    }
+  }
+
+  @media screen and (min-width: $pageS) {
+    padding: $spaceM;
+    padding-top: $spaceL;
+    max-width: $pageM*2;
+  }
+}
+
+.menu-content {
   background-color: white;
   padding: $spaceL;
   max-width: 60rem;
   margin: 0 auto;
-  
+
+  div {
+    display: none;
+  }
+
+  div.selected {
+    display: block;
+  }
+
   h1 {
     font-family: $fontSansSerif;
     font-size: $textXL;
     text-align: center;
     margin-top: $spaceM;
   }
-  
+
   h2 {
     font-size: 1.5rem;
     border-bottom: 0.1rem dotted $gray;
     margin-top: $spaceL;
-    
+
     em {
       float: right;
     }
   }
-  
+
   h3 {
     font-size: 1.5rem;
     color: $gray;
   }
-  
+
   h4 {
     font-size: $textL;
     margin-top: $spaceXL;
   }
-  
+
   p {
     padding: $spaceM 0;
     color: $gray;
   }
-  
+
   ul {
     font-size: 1.5rem;
     margin: $spaceM auto;
     border: 0.1rem dashed $gray;
     padding: $spaceXS $spaceXS 0 $spaceXS;
     width: 50%;
-    
+
     li {
       padding: $spaceXS;
     }
   }
-  
+
   h3 + ul {
     margin: 0;
     border: none;
     color: $gray;
     width: 33%;
-    
+
     li {
       padding: 0;
     }
