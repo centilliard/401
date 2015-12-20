@@ -76,3 +76,8 @@ $Z_MAX: 100;
           change_color($color, $alpha: 0)
   );
 }
+
+@mixin border-highlight($color, $spacing: $spaceM, $width: 0.2rem) {
+  padding-left: $spacing;
+  border-left: $width solid $color;
+}

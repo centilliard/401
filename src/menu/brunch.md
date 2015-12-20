@@ -28,7 +28,7 @@ tequila, orange juice and dash of Grenadine
 # SPECIAL
 
 ## DESI'S EYE OPENER
-bagel or English muffin with scrambled egg, American cheese, choice of bacon, sausage or Bloody Mary or Mimosa ham served with choice of
+bagel or English muffin with scrambled egg, American cheese, choice of bacon, sausage or Bloody Mary or Mimosa ham served with choice of Bloody Mary or Mimosa 
 
 
 # Tasty Eats
