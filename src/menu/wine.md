@@ -25,21 +25,6 @@ flavors of pineapple, peach, and hints of honey
 ### Washington
 
 
-# Sparkling
-
-## N.V. WYCLIFF CHAMPAGNE *9/36*
-sweet with a crisp clean finish
-### California
-
-## N.V. MASCHIO PROSECCO *10/38*
-semi-dry with flavors of white peach, orange blossoms and almond
-### Veneto
-
-## N.V. BANFI ROSA REGALE BRACHETTO *10*
-aromas of raspberries, strawberries, and rose petals
-### Piedmont
-
-
 # Reds
 
 ## 2013 CARTLIDGE & BROWNE PINOT NOIR *10/38*
@@ -61,6 +46,21 @@ aromas of strawberries, cream and flan with a fruity lively finish
 ## 2013 SEPTIMA MALBEC *9/36*
 bright intense violet red, elegant and complex with notes of black-berry and plum jam
 ### Mendoza
+
+
+# Sparkling
+
+## N.V. WYCLIFF CHAMPAGNE *9/36*
+sweet with a crisp clean finish
+### California
+
+## N.V. MASCHIO PROSECCO *10/38*
+semi-dry with flavors of white peach, orange blossoms and almond
+### Veneto
+
+## N.V. BANFI ROSA REGALE BRACHETTO *10*
+aromas of raspberries, strawberries, and rose petals
+### Piedmont
 
 
 #  Bubbly & Festive
