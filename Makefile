@@ -58,8 +58,6 @@ deploy: .git
 	@cp -r ${SRC_DIR}/images ${BUILD_DIR}/
 
 .menu: ${MENU_HTML_FILES}
-	@echo "HTML MENU DEPS:"
-	@echo "$<"
 
 ${BUILD_DIR}/styles/%.css: ${SRC_DIR}/styles/%.scss
 	mkdir -p "$(@D)"
