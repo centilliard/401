@@ -1,5 +1,5 @@
 # Tequila
-* add *3* for a Margarita
+* make it a Margarita *3*
 
 #### Tequila Blanco Shot
 
