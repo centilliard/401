@@ -151,6 +151,7 @@ p {
 .page-loft {
   height: 125vh;
   padding: $spaceXL;
+  position: relative;
 
   h1 {
     position: relative;
@@ -165,7 +166,7 @@ p {
   }
 }
 
-#menu {
+.menu {
   background-color: $white;
 
   @media screen and (min-width: $pageM) {
