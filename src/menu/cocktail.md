@@ -1,7 +1,7 @@
 # On The Rocks
 
 ## RED / WHITE SANGRIA *8.50*
-One of 401’s Best Kept Secrets 
+One of 401's Best Kept Secrets 
 
 ## 401 REFRESHER *10*
 Effen Cucumber Vodka, St-Germaine, Elderflower Liqueur and Soda Water
@@ -16,7 +16,7 @@ Bacardi White Rum, Myers Dark Rum, Arrow Crème de Banana, Orange Juice, Pineapp
 Parrot Bay Mango Rum, Skyy Pineapple Vodka, Bols Curacao and Pineapple Juice
 
 ## MOSCOW MULE *10*
-Russian Standard Vodka, Freshly Squeezed Lime Juice and 401’s Signature Ginger Beer Served in a Mug
+Russian Standard Vodka, Freshly Squeezed Lime Juice and 401's Signature Ginger Beer Served in a Mug
 
 ## DARK & STORMY *10*
 Gosling's Black Seal Rum and 401's Signature Ginger Beer
@@ -28,7 +28,7 @@ Absolut Citron Vodka, Freshly Squeezed Lemon and Sugar
 Hayman's Old Tom Gin, Cocchi Rosa, Red Vermouth with an Orange Twist Served in Snifter
 
 ## NEW OLD FASHIONED *11*
-Maker’s Mark, muddled fresh oranges, Maraschino cherry, bitters and sugar
+Maker's Mark, muddled fresh oranges, Maraschino cherry, bitters and sugar
 
 ## COCONUT CRUSHER *12*
 1800 Coconut Tequila, Pineapple Juice and Splash of Chambord
