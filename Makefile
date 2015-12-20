@@ -23,6 +23,7 @@ build: .dirs .tools .scss .html .img .menu
 	sed -i -e "/__BEER_MENU__/{r ${BUILD_DIR}/menu/beer.html" -e 'd}' ${BUILD_DIR}/index.html     #inject beer HTML
 	sed -i -e "/__WINE_MENU__/{r ${BUILD_DIR}/menu/wine.html" -e 'd}' ${BUILD_DIR}/index.html     #inject wine HTML
 	sed -i -e "/__COCKTAIL_MENU__/{r ${BUILD_DIR}/menu/cocktail.html" -e 'd}' ${BUILD_DIR}/index.html #inject cocktail HTML
+	sed -i -e "/__LIQUOR_MENU__/{r ${BUILD_DIR}/menu/liquor.html" -e 'd}' ${BUILD_DIR}/index.html #inject liquor HTML
 	java -jar ${HTML_COMPRESSOR} ${HTML_OPTS} ${BUILD_DIR}/index.html -o ${BUILD_DIR}/index.html  #compress final HTML
 	tr -d "\n\r" < ${BUILD_DIR}/index.html > ${BUILD_DIR}/index.html.tr                           #remove all newlines
 	cp ${BUILD_DIR}/index.html.tr ${BUILD_DIR}/index.html && rm -fv ${BUILD_DIR}/index.html.tr    #remove temp file

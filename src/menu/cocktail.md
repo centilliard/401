@@ -70,6 +70,45 @@ Godiva Dark Chocolate, Patron XO
 Three Olives Pomegranate Vodka, Splash of Lemonade and Pomegranate Liqueur
 
 
+# Specialty Margaritas
+
+## 401 HOUSE MARGARITA *8.50*
+El Toro Tequila, Triple Sec, Sour Mix and a Splash of Orange Juice
+
+## APRICOT MARGARITA *12*
+1800 Silver Tequila, Orchard Apricot Liqueur and Sour Mix
+
+## FRENCH GINGER MARGARITA *13*
+Hornitos Silver Tequila, Domaine de Canton Ginger Liqueur and Freshly Squeezed Lime
+
+## ISLAND COCONUT MARGARITA *12*
+1800 Coconut Tequila, Sour Mix and Island Oasis Pina Colada
+
+## BLOOD ORANGE MARGARITA *14*
+Patron Silver Tequila, Di Sorrento Blood Orange, Sour Mix and Splash of Orange Juice
+
+## GRAPEFRUIT MARGARITA *12*
+Hornitos Silver Tequila, Triple Sec, Grapefruit Juice and Splash of Sour Mix
+
+## LIMONCELLO MARGARITA *13*
+1800 Silver Tequila, Di Sorrento Limoncello and Freshly Squeezed Lime Juice
+
+## PINEAPPLE MARGARITA *13*
+Milagro Reposado Tequila, Triple Sec, Pineapple Juice and Island Oasis Margarita Mix
+
+## MELON MARGARITA *12*
+1800 Silver Tequila, Midori Melon Liqueur, Sour Mix and Splash of Orange Juice
+
+## PEACH MARGARITA *12*
+Hornitos Silver Tequila, Peach Schnapps, Splash of Cranberry Juice and Sour Mix
+
+## X-RATED MARGARITA *14*
+Don Julio Blanco Tequila, X-Rated Fusion Liqueur, Agave Nectar, Muddled Limes
+
+## ELDERFLOWER MARGARITA *13*
+Hornitos Silver Tequila, St-Germaine Elderflower Liqueur and Fresh Lime Juice
+
+
 # 401 Frozen Drinks
 
 ## PIñA COLADA *11*
