@@ -91,7 +91,7 @@ chili seasonings, ground Black Angus beef, onions, black beans with Colby-Jack c
 mixed greens, tomatoes, cucumbers, red onions and carrots with croutons
 
 ## CAESAR *6.59*
-fresh romaine, Caesar fressing, Parmesan cheese with croutons
+fresh romaine, Caesar dressing, Parmesan cheese with croutons
 
 ### add to any above salad
 * grilled chicken *7*
@@ -126,7 +126,7 @@ dried cranberries, mandarin oranges, almonds, gorgonzola cheese, baby spinach wi
 char-grilled Black Angus beef burger with Swiss cheese, slice of red onion nestled between a bed of arugula and a half grilled tomato served with quinoa and pickle
 
 ## (GF) HERBED CHICKEN BREAST *16.59*
-twin herbed chicken breast atop quinoa and sauteed vegetable du jour
+twin herbed chicken breast atop quinoa and sautéed vegetable du jour
 
 ## TERIYAKI-LIME CHICKEN SKILLET *16.59*
 sliced chicken, sliced red bell-pepper, sliced onions, fresh basil leaves tossed with teriyaki and lime juice served over quinoa
@@ -196,7 +196,7 @@ Montreal seasoned grilled chicken sandwich on gluten-free bun with arugula, toma
 
 
 # CLASSIC ENTREES
-* all entrees include a choice of  homemade mashed potatoes, baked potato, rice pilaf or O'Brien potatoes and vegetable of the day, unless accompanied with pasta
+* all entrees include a choice of  homemade mashed potatoes, baked potato, rice pilaf, O'Brien potatoes, or quinoa and vegetable of the day, unless accompanied with pasta
 
 ## SHRIMP & LOBSTER SCAMPI *24.59*
 shrimp, lobster meat in garlic butter, lemon and white wine, tossed with red onion, mushrooms and tomatoes atop penne pasta
@@ -208,10 +208,10 @@ baked fresh native haddock filet, lightly breaded and baked with lemon, butter, 
 baked native haddock topped with shrimp, scallops, capers, tomatoes and garlic sauce
 
 ## LOBSTER PIE *24.59*
-fresh Maine lobster meat on casserole with Chardonnay and Ritz crumbs
+fresh Maine lobster meat en casserole with Chardonnay and Ritz crumbs
 
 ## (GF) STEAK TIPS *18.59*
-marinated in our seret recipe of herbs and spices
+marinated in our secret recipe of herbs and spices
 
 ## CHICKEN PARMESAN *18.59*
 hand-breaded chicken tenders, oven baked with homemade marinara sauce and Provolone cheese atop penne pasta
@@ -232,13 +232,13 @@ penne pasta tossed with cream, herbs, Colby-Jack, Mozzarela and Parmesan topped 
 our seasoned Black Angus ground beef tossed with 401's Mac and Cheese topped with American cheese
 
 ## BUFFALO CHICKEN MAC *15.59*
-our hand-treaded buffalo chicken tender bites tossed with 401's Mac and Cheese with a hint of Frank's hot sauce and Bleu cheese
+our hand-breaded buffalo chicken tender bites tossed with 401's Mac and Cheese with a hint of Frank's hot sauce and Bleu cheese
 
 ## SIGNATURE B.L.T. MAC *21.59*
 401's Mac and Cheese with chopped smoked bacon and lobster meat lopped with oven roasted tomatoes, dusted with Parmesan.
 
 # SIDES
-(GF) Baked Potato, Vegetable of Day, Quinoa *2.59*
-Mashed Potatoes, O'Brien Potatoes, Rice Pilaf *2.59*
-Caesar Salad, Garden Salad *4.59/each*
-Mac and Cheese *5.59*
+* (GF) Baked Potato, Vegetable of Day, Quinoa *2.59*
+* Mashed Potatoes, O'Brien Potatoes, Rice Pilaf *2.59*
+* Caesar Salad, Garden Salad *4.59/each*
+* Mac and Cheese *5.59*
