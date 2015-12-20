@@ -8,7 +8,7 @@ HTML_OPTS=--remove-intertag-spaces --remove-quotes --remove-style-attr --remove-
 YUI_COMPRESSOR=${BIN_DIR}/yuicompressor-2.4.8.jar
 CLOSURE_COMPILER=${BIN_DIR}/compiler-20151015.jar
 
-MENU_MD=$(wildcard ${SRC_DIR}/menu/*.md}
+MENU_MD=$(wildcard ${SRC_DIR}/menu/*.md)
 MENU_HTML=$(patsubst %.md,%.html,${MENU_MD})
 MENU_HTML_FILES=$(subst ${SRC_DIR},${BUILD_DIR},${MENU_HTML})
 
