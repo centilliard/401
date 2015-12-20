@@ -52,7 +52,7 @@ deploy: .git
 .img:
 	@cp -r ${SRC_DIR}/images ${BUILD_DIR}/
 
-.menu: ${BUILD_DIR}/menu/dinner.html
+.menu: ${BUILD_DIR}/menu/dinner.html ${BUILD_DIR}/menu/brunch.html
 
 ${BUILD_DIR}/styles/%.css: ${SRC_DIR}/styles/%.scss
 	mkdir -p "$(@D)"
