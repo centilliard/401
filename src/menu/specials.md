@@ -52,4 +52,25 @@ vanilla ice cream topped with chocolate syrup, whipped cream and a cherry
 freshly brewed American coffee served with a taster of Kahlua, Bayley's or Sambuca
 
 
-# 
+# Seacoast United & The Rim
+* 2015 - 2016 Winter Specials @ The 401 Tavern
+* Sunday - Thursday 6PM - CLOSE
+* You don't have to win to celebrate! Grab your teammates and wear your Seacoast United and Rim T-shirt or show your card to save 
+* Dine-in only 
+
+## Narraganset Bottled Beer *2*
+
+## Domestic Bottled Beer *3*
+Bud, Bud Lite, Miller Lite, Coors Lite
+
+## Any Draft Beer *4*
+(excluding specialty craft brews)
+
+## Cup of Chowder or Cup of Chili *5*
+
+## Nachos with Cheese & Bell Pepper Onion Confetti *6*
+
+## Wings or Tenders *7*
+
+## 401 Burger with Cheese & Bacon *8*
+
