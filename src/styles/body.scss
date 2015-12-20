@@ -170,11 +170,12 @@ p {
 
   @media screen and (min-width: $pageM) {
     padding-bottom: $spaceXL;
+    background: $white url('../images/bg-menu.png');
   }
 
   h1 {
     border-color: $gray_light;
-    background: $white url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAHElEQVQIW2M8vGvdf1u3IEYGKIAzMARgKjFUAABeTQgF7IlyLgAAAABJRU5ErkJggg==');
+    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAHElEQVQIW2M8vGvdf1u3IEYGKIAzMARgKjFUAABeTQgF7IlyLgAAAABJRU5ErkJggg==');
   }
 
   .menu-nav {
@@ -222,7 +223,7 @@ p {
 
   .menu-content {
     text-align: center;
-    background-color: white;
+    background-color: $off-white;
     padding: $spaceL;
     padding-top: 0;
     max-width: $pageM;
