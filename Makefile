@@ -12,6 +12,7 @@ CLOSURE_COMPILER=${BIN_DIR}/compiler-20151015.jar
 
 build: .dirs .tools .scss .html .img .menu
 	sed -i -e "/__HEADER_CSS__/{r ${BUILD_DIR}/styles/header.css" -e 'd}' ${BUILD_DIR}/index.html #inject header CSS
+	sed -i -e "/__BRUNCH_MENU__/{r ${BUILD_DIR}/menu/brunch.html" -e 'd}' ${BUILD_DIR}/index.html #inject brunch HTML
 	sed -i -e "/__DINNER_MENU__/{r ${BUILD_DIR}/menu/dinner.html" -e 'd}' ${BUILD_DIR}/index.html #inject dinner HTML
 	java -jar ${HTML_COMPRESSOR} ${HTML_OPTS} ${BUILD_DIR}/index.html -o ${BUILD_DIR}/index.html  #compress final HTML
 	tr -d "\n\r" < ${BUILD_DIR}/index.html > ${BUILD_DIR}/index.html.tr                           #remove all newlines
