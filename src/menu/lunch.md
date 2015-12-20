@@ -45,7 +45,7 @@ haddock, bacon wrapped scallops, crab stuffed shrimp and lobster meat with herbe
 
 # Specials
 
-#### Monday
+#### MONDAY
 
 ## BURGER MANIA *5.59*
 401 char-grilled Black Angus beef burger with pickle and potato chips
@@ -70,8 +70,7 @@ fresh-baked chicken pot pie loaded with chunks of chicken and topped with a gold
 
 ## SLOW ROASTED PRIME RIB
 (after 4PM) served with Teriyaki au jus lie
-
-###
+### choice of
 * 401 cut (14 oz) *23.59*
 * Junior cut (10 oz) *19.59*
 
