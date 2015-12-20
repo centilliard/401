@@ -30,6 +30,7 @@ served with celery, carrots and Ranch or Bleu cheese
 
 ## NACHOS *10.59*
 with bell pepper-onion confetti and Colby-Jack cheese served with salsa and sour cream
+
 * chicken *3*
 * beef *5*
 * chili *4*
@@ -63,6 +64,7 @@ penne pasta tossed with cream, Colby-Jack, Mozzarella and Parmesan
 
 ## PENNE AND RED SAUCE
 penne pasta served with homemade marinara sauce
+
 * add meatball *2.59/each*
 
 ## HOTDOG
@@ -136,6 +138,7 @@ sliced chicken, sliced red bell-pepper, sliced onions, fresh basil leaves tossed
 
 ## 401 Burger *8.59*
 char-grilled Black Angus beef burger
+
 * American cheese *1*
 * bacon *1*
 * tomato *0.59*
@@ -187,6 +190,7 @@ our famous breaded chicken tenderloin
 
 ## (GF) MONTREAL CHICKEN SANDWICH *10.59*
 Montreal seasoned grilled chicken sandwich on gluten-free bun with arugula, tomato, red onion
+
 * American cheese *1*
 * bacon *1*
 

@@ -34,7 +34,6 @@
 h1 {
   font-family: $fontCursive;
   font-size: $textXL;
-  font-style: italic;
   padding: $spaceL 0 $spaceL 0;
   text-align: center;
   border-top: $spaceXS solid $gray_light;
@@ -177,118 +176,178 @@ p {
     border-color: $gray_light;
     background: $white url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAHElEQVQIW2M8vGvdf1u3IEYGKIAzMARgKjFUAABeTQgF7IlyLgAAAABJRU5ErkJggg==');
   }
-}
 
-.menu-nav {
-  text-align: center;
-  margin: 0 auto;
-
-  a {
-    display: block;
-    border-bottom: 0.1rem solid $white_hover;
-    padding: $spaceM;
-
-    font-size: $textL;
-    font-family: $fontSerif;
-    color: $gray_hover;
-    background-color: $off-white;
-
+  .menu-nav {
     text-align: center;
-    text-decoration: none;
-    text-transform: uppercase;
+    margin: 0 auto;
+
+    a {
+      display: block;
+      border-bottom: 0.1rem solid $white_hover;
+      padding: $spaceM;
+
+      font-size: $textL;
+      font-family: $fontSerif;
+      color: $gray_hover;
+      background-color: $off-white;
+
+      text-align: center;
+      text-decoration: none;
+      text-transform: uppercase;
+
+      @media screen and (min-width: $pageS) {
+        display: inline-block;
+        padding: $spaceL;
+        margin: 0 $spaceM $spaceL $spaceM;
+        min-width: 15rem;
+        border: 0.1rem solid $white_hover;
+      }
+    }
+
+    a:hover, a.selected {
+      color: $gray;
+      background-color: $white_hover;
+
+      @media screen and (min-width: $pageS) {
+        border: 0.1rem solid $off-white;
+      }
+    }
 
     @media screen and (min-width: $pageS) {
-      display: inline-block;
-      padding: $spaceL;
-      margin-right: $spaceL;
-      margin-bottom: $spaceL;
-      min-width: 15rem;
-      border: 0.1rem solid $white_hover;
+      padding: $spaceM;
+      padding-top: $spaceL;
+      max-width: $pageM*2;
     }
   }
 
-  a:hover, a.selected {
-    color: $gray;
-    background-color: $white_hover;
-
-    @media screen and (min-width: $pageS) {
-      border: 0.1rem solid $off-white;
-    }
-  }
-
-  @media screen and (min-width: $pageS) {
-    padding: $spaceM;
-    padding-top: $spaceL;
-    max-width: $pageM*2;
-  }
-}
-
-.menu-content {
-  background-color: white;
-  padding: $spaceL;
-  max-width: 60rem;
-  margin: 0 auto;
-
-  div {
-    display: none;
-  }
-
-  div.selected {
-    display: block;
-  }
-
-  h1 {
-    font-family: $fontSansSerif;
-    font-size: $textXL;
+  .menu-content {
     text-align: center;
-    margin-top: $spaceM;
-  }
+    background-color: white;
+    padding: $spaceL;
+    padding-top: 0;
+    max-width: 60rem;
+    margin: 0 auto;
 
-  h2 {
-    font-size: 1.5rem;
-    border-bottom: 0.1rem dotted $gray;
-    margin-top: $spaceL;
+    div {
+      display: none;
+    }
+
+    div.selected {
+      display: block;
+    }
 
     em {
-      float: right;
+      color: $gray_hover;
     }
-  }
 
-  h3 {
-    font-size: 1.5rem;
-    color: $gray;
-  }
+    //menu section title
+    h1 {
+      font-family: $fontSansSerif;
+      font-size: $textXL;
+      font-style: normal;
+      letter-spacing: 0.2rem;
+      margin: 0;
+      padding-top: $spaceXL;
+      padding-bottom: $spaceL;
+      border: none;
+      background: none;
+      text-transform: uppercase;
+    }
 
-  h4 {
-    font-size: $textL;
-    margin-top: $spaceXL;
-  }
+    //entry title
+    h2 {
+      text-align: left;
+      font-size: 1.5rem;
+      font-weight: bold;
+      letter-spacing: 0.1rem;
+      text-transform: uppercase;
+      font-family: $fontSansSerif;
+      margin-top: $spaceL;
+      padding-left: $spaceM;
+      padding-right: $spaceS;
+      border-left: 0.2rem solid $white;
+      line-height: 1.5rem + 0.2rem;
 
-  p {
-    padding: $spaceM 0;
-    color: $gray;
-  }
+      //entry price
+      em {
+        font-weight: normal;
 
-  ul {
-    font-size: 1.5rem;
-    margin: $spaceM auto;
-    border: 0.1rem dashed $gray;
-    padding: $spaceXS $spaceXS 0 $spaceXS;
-    width: 50%;
+        @media screen and (min-width: $pageS) {
+          float: right;
+        }
+      }
+    }
 
-    li {
+    //misc description, "add the following:"
+    h3 {
+      text-align: left;
+      font-size: $textM + 0.5rem;
+      font-style: italic;
+      color: $gray;
+      padding-left: $spaceM;
+      padding-top: $spaceXS;
+      border-left: 0.2rem solid $white;
+    }
+
+    // subsection title
+    h4 {
+      font-family: $fontSansSerif;
+      font-size: $textL;
+      margin-top: $spaceXL;
+    }
+
+    //entry description
+    p {
+      padding: $spaceXS 0 0 $spaceM;
+      font-size: $textM + 0.5rem;
+      line-height: $textL;
+      text-align: left;
+      color: $gray;
+      border-left: 0.2rem solid $white;
+    }
+
+    // subtitle list
+    ul {
+      display: inline-block;
+      font-size: 1.5rem;
+      text-align: left;
+      margin: 0 auto $spaceXS auto;
+      border: 0.1rem dashed $gray;
       padding: $spaceXS;
+      width: auto;
+
+      li {
+        padding: $spaceXS;
+
+        em {
+          font-family: $fontSansSerif;
+
+          @media screen and (min-width: $pageM) {
+            float: right;
+            padding-left: $spaceL;
+          }
+        }
+      }
     }
-  }
 
-  h3 + ul {
-    margin: 0;
-    border: none;
-    color: $gray;
-    width: 33%;
+    // entry list of additions
+    h3 + ul {
+      display: block;
+      font-size: $textM + 0.5rem;
+      text-align: left;
+      margin: 0;
+      border: none;
+      border-left: 0.2rem solid $white;
+      padding-left: $spaceL;
+      color: $gray;
 
-    li {
-      padding: 0;
+      @media screen and (min-width: $pageM) {
+        width: 33%;
+      }
+
+      li {
+        padding: 0;
+      }
     }
   }
 }

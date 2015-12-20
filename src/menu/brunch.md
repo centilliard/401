@@ -61,5 +61,5 @@ thick sliced egg, cinnamon-sugar battered country white bread with maple syrup a
 
 # Sides
 * bacon, sausage, ham, O'Brien potatoes *2.59/each*
-* English Muffian, Wheat, White, Marble Rye *1.59/each*
+* English Muffin, Wheat, White, Marble Rye *1.59/each*
 * egg any style *1*
