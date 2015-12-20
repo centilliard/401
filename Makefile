@@ -8,11 +8,16 @@ HTML_OPTS=--remove-intertag-spaces --remove-quotes --remove-style-attr --remove-
 YUI_COMPRESSOR=${BIN_DIR}/yuicompressor-2.4.8.jar
 CLOSURE_COMPILER=${BIN_DIR}/compiler-20151015.jar
 
+MENU_MD=$(wildcard ${SRC_DIR}/menu/*.md}
+MENU_HTML=$(patsubst %.md,%.html,${MENU_MD})
+MENU_HTML_FILES=$(subst ${SRC_DIR},${BUILD_DIR},${MENU_HTML})
+
 .PHONY:  build deploy .git .dirs .tools .scss .html .img .menu
 
 build: .dirs .tools .scss .html .img .menu
 	sed -i -e "/__HEADER_CSS__/{r ${BUILD_DIR}/styles/header.css" -e 'd}' ${BUILD_DIR}/index.html #inject header CSS
 	sed -i -e "/__BRUNCH_MENU__/{r ${BUILD_DIR}/menu/brunch.html" -e 'd}' ${BUILD_DIR}/index.html #inject brunch HTML
+	sed -i -e "/__LUNCH_MENU__/{r ${BUILD_DIR}/menu/lunch.html" -e 'd}' ${BUILD_DIR}/index.html   #inject lunch HTML
 	sed -i -e "/__DINNER_MENU__/{r ${BUILD_DIR}/menu/dinner.html" -e 'd}' ${BUILD_DIR}/index.html #inject dinner HTML
 	java -jar ${HTML_COMPRESSOR} ${HTML_OPTS} ${BUILD_DIR}/index.html -o ${BUILD_DIR}/index.html  #compress final HTML
 	tr -d "\n\r" < ${BUILD_DIR}/index.html > ${BUILD_DIR}/index.html.tr                           #remove all newlines
@@ -52,7 +57,9 @@ deploy: .git
 .img:
 	@cp -r ${SRC_DIR}/images ${BUILD_DIR}/
 
-.menu: ${BUILD_DIR}/menu/dinner.html ${BUILD_DIR}/menu/brunch.html
+.menu: ${MENU_HTML_FILES}
+	@echo "HTML MENU DEPS:"
+	@echo "$<"
 
 ${BUILD_DIR}/styles/%.css: ${SRC_DIR}/styles/%.scss
 	mkdir -p "$(@D)"
