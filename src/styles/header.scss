@@ -64,6 +64,7 @@ header {
 }
 
 .header-small {
+  background-color: $gray;
   z-index: $Z_MAX;
   box-shadow: 0.1rem 0.1rem 1rem;
 
@@ -73,10 +74,6 @@ header {
 
   a:hover {
     color: $white_hover;
-  }
-
-  @media screen and (max-width: $pageXS) {
-    background-color: $gray;
   }
 
   @media screen and (min-width: $pageXS + 1) {

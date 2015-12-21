@@ -65,7 +65,7 @@ $Z_MAX: 100;
   $to: change_color($color, $alpha: $end);
 
   @media screen and (min-width: $pageS) {
-    background-image: radial-gradient($shape $destination, $from 0%, $to 100%), $urlXL;
+    background: radial-gradient($shape $destination, $from 0%, $to 100%), $urlXL;
   }
 }
 
