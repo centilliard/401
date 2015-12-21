@@ -108,9 +108,12 @@ header {
           url('../images/home.jpg'), 0.6, 0.2);
 }
 
-.bg-dotted {
+.bg-gray-dots {
   background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAG0lEQVQIW2NkYGD4z8DAwMgABXAGNgGwSgwVAFbmAgXxvZSoAAAAAElFTkSuQmCC);
-  background-repeat: repeat;
+}
+
+.bg-lightgray-dots {
+  background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAHElEQVQIW2M8vGvdf1u3IEYGKIAzMARgKjFUAABeTQgF7IlyLgAAAABJRU5ErkJggg==');
 }
 
 .static {
@@ -191,8 +194,4 @@ header {
       padding-top: $spaceL;
     }
   }
-}
-
-footer {
-  padding: $spaceXL;
 }

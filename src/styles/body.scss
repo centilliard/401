@@ -1,5 +1,7 @@
 @import 'shared';
 
+// region CELLS
+
 .cell-2 {
   display: inline-block;
   width: 50%;
@@ -50,7 +52,9 @@ p {
   padding: $spaceM;
 }
 
-// -- YE OLD TAVERN --
+// endregion
+
+// region TAVERN
 
 .frame {
   padding: $spaceM;
@@ -74,7 +78,7 @@ p {
   padding-bottom: $spaceL;
 
   h1 {
-    background: $white url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAHElEQVQIW2M8vGvdf1u3IEYGKIAzMARgKjFUAABeTQgF7IlyLgAAAABJRU5ErkJggg==');
+    background-color: $white;
     color: $gray;
   }
 
@@ -92,13 +96,15 @@ p {
   }
 }
 
-// -- BAR --
+// endregion
+
+// region BAR
 
 .page-bar {
   border-bottom: $spaceXS solid $shadow;
 
   h1 {
-    background: $gray url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAG0lEQVQIW2NkYGD4z8DAwMgABXAGNgGwSgwVAFbmAgXxvZSoAAAAAElFTkSuQmCC);
+    background-color: $gray;
     border-color: $shadow;
     color: $white;
     text-shadow: 0.1rem 0.1rem 0.1rem $shadow;
@@ -140,7 +146,9 @@ p {
   }
 }
 
-// -- WINE LOFT --
+// endregion
+
+// region WINE LOFT
 
 .bg-loft {
   @extend %bg;
@@ -166,7 +174,12 @@ p {
   }
 }
 
+// endregion
+
+// region MENU
+
 .menu {
+  position: relative;
   background-color: $white;
 
   @media screen and (min-width: $pageM) {
@@ -176,7 +189,6 @@ p {
 
   h1 {
     border-color: $gray_light;
-    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAHElEQVQIW2M8vGvdf1u3IEYGKIAzMARgKjFUAABeTQgF7IlyLgAAAABJRU5ErkJggg==');
   }
 
   .menu-nav {
@@ -367,3 +379,134 @@ p {
     }
   }
 }
+
+// endregion
+
+// region DIRECTIONS
+
+.page-directions {
+  background-color: $gray;
+  text-align: center;
+
+  h1 {
+    color: $white;
+    text-shadow: 0.1rem 0.1rem 0.1rem $shadow;
+    border-color: $shadow;
+    background-color: $gray;
+  }
+
+  .directions {
+
+    @media screen and (min-width: $pageM) {
+      padding-top: $spaceL;
+      padding-bottom: $spaceL;
+    }
+
+    .gmap {
+      text-align: right;
+      vertical-align: top;
+    }
+
+    .directions-address {
+      text-align: center;
+      vertical-align: top;
+      color: $gray_light;
+
+      @media screen and (min-width: $pageM) {
+        text-align: left;
+      }
+    }
+
+    .cell-2 {
+      @media screen and (max-width: $pageS) {
+        margin: 0;
+      }
+    }
+
+    h2 {
+      font-family: $fontBrand;
+      font-weight: bold;
+      color: $white;
+      text-transform: uppercase;
+      letter-spacing: 0.1rem;
+      font-size: $textXL;
+      margin-left: $spaceXS;
+
+      @media screen and (min-width: $pageM) {
+        font-size: $text2XL;
+      }
+    }
+
+    h3 {
+      font-family: $fontCursive;
+      color: $white;
+      margin-top: $spaceL;
+      margin-left: $spaceXS;
+      font-size: $textL;
+
+      @media screen and (min-width: $pageM) {
+        font-size: $textXL;
+      }
+    }
+
+    p {
+      font-size: $textM + 0.2rem;
+      @media screen and (min-width: $pageM) {
+        font-size: $textM + 0.75rem;
+      }
+    }
+
+    .frame {
+      border: none;
+      padding: 0;
+      width:100%;
+      max-width: 60rem;
+
+      iframe {
+        width: 100%;
+      }
+
+      @media screen and (min-width: $pageM) {
+        background-color: $shadow;
+        padding: $spaceS;
+        border: 0.1rem solid $gray_hover;
+      }
+    }
+  }
+}
+
+footer {
+  text-align: center;
+}
+
+.social {
+  background-color: $shadow;
+  padding: $spaceXL;
+  border-top: 0.1rem solid $shadow;
+  border-bottom: 0.1rem solid $shadow;
+
+  a {
+    margin-left: $spaceL;
+    $margin-right: $spaceL;
+  }
+}
+
+.copyright {
+  font-family: $fontSansSerif;
+  font-size: $textM + 0.2rem;
+  line-height: $textM + 0.5rem;
+  text-transform: uppercase;
+  background-color: $gray;
+  color: $gray_hover;
+  padding: $spaceXL;
+
+  @media screen and (min-width: $pageM) {
+    font-size: $textM + 0.5rem;
+  }
+
+  a {
+    color: $gray_hover;
+    text-decoration: underline;
+  }
+}
+// endregion

@@ -14,7 +14,7 @@
         --><a href="#about">about</a><!--
         --><a href="#directions">directions</a>
 </header>
-<div class="page-full bg-dotted">
+<div class="page-full bg-gray-dots">
     <section class="card">
         <h2>Food * Drinks * People</h2>
 
@@ -44,7 +44,7 @@
 <link rel="stylesheet" type="text/css" href="styles/body.css" property="stylesheet">
 
 <section class="page-tavern">
-    <h1>The Old Tavern</h1>
+    <h1 class="bg-lightgray-dots">The Old Tavern</h1>
 
     <div class="cell-2 photo">
         <div class="frame">
@@ -66,8 +66,8 @@
             </article>
     </div>
 </section>
-<section class="page-bar bg-dotted">
-    <h1>The Sports Barn</h1>
+<section class="page-bar">
+    <h1 class="bg-gray-dots">The Sports Barn</h1>
     <div class="bar-pics">
         <div class="cell-3 page-bar-left"></div><!--
      --><div class="cell-3 page-bar-center"></div><!--
@@ -81,7 +81,7 @@
 </section>
 
 <section class="menu">
-    <h1>Menu</h1>
+    <h1 class="bg-lightgray-dots">Menu</h1>
     <nav class="menu-nav" onclick="return toggleMenu(event);">
         <div class="food">
         <!--
@@ -123,9 +123,61 @@
             __LIQUOR_MENU__
         </div>
     </section>
+    <div id="directions" class="nav-goto"></div>
 </section>
+
+<section class="page-directions">
+    <h1 class="bg-gray-dots">Directions</h1>
+    <div class="directions">
+        <div class="cell-2 gmap">
+            <div class="frame">
+                <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0"width="400" height="400" src="https://maps.google.com/maps?hl=en&q=The 401 Tavern, 401 Lafayette Rd, Hampton, NH&ie=UTF8&t=roadmap&z=16&iwloc=B&output=embed"><div><small><a href="http://embedgooglemaps.com">embedgooglemaps.com</a></small></div><div><small><a href="http://premiumlinkgenerator.com">premium link generator for 2016</a></small></div></iframe>
+            </div>
+        </div><!--
+         --><div class="cell-2 directions-address">
+        <h2 class="brand"><!--
+            --><span>T</span><!--
+            --><span style="letter-spacing: 0.01em">H</span><!--
+            --><span>E</span><!--
+            --><span style="letter-spacing: 0.05em">&nbsp;</span><!--
+            --><span style="letter-spacing: 0.03em">4</span><!--
+            --><span style="letter-spacing: -0.03em">0</span><!--
+            --><span>1</span><!--
+            --><span style="letter-spacing: 0em">&nbsp;</span><!--
+            --><span style="letter-spacing: -0.05em">T</span><!--
+            --><span style="letter-spacing:-0.15em">A</span><!--
+            --><span style="letter-spacing: 0.02em">V</span><!--
+            --><span style="letter-spacing: 0.02em">E</span><!--
+            --><span style="letter-spacing: 0.05em">R</span><!--
+            --><span>N</span>
+        </h2>
+
+        <p>401 Lafayette Rd, Hampton, NH, 02145<br>
+            (603) 926-8800
+        </p>
+        <h3>Hours:</h3>
+        <p>
+            MONDAY - SATURDAY: 11AM - 1AM<br>
+            SUNDAY: 9AM - 1AM<br>
+            365 days a year
+        </p>
+        <h3>Lunch:</h3>
+        <p>MONDAY - FRIDAY: 11AM - 4PM</p>
+        <h3>Early Bird Special:</h3>
+        <p>MONDAY - FRIDAY: 2PM - 5PM</p>
+        </div>
+    </div>
+</section>
+
 <footer>
-    (c) 2015 The 401 Tavern
+    <section class="social bg-gray-dots">
+        <a href="https://www.facebook.com/The401Tavern/"><img src="images/facebook.png"></a>
+        <a href="https://twitter.com/The401tavern1"><img src="images/twitter.png"></a>
+        <a href="https://www.instagram.com/explore/locations/6392872/"><img src="images/instagram.png"></a>
+    </section>
+    <section class="copyright">
+        (c) 2015 The 401 Tavern // A <a href="https://github.com/centilliard/401">free and open source</a> website by <a href="https://github.com/centilliard">Centilliard Design</a> // Licensed under <a href="https://github.com/centilliard/401/blob/master/LICENSE">GPLv2</a>
+    </section>
 </footer>
 
 <script>
