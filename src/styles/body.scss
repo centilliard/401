@@ -435,8 +435,10 @@ p {
       letter-spacing: 0.1rem;
       font-size: $textXL;
       margin-left: $spaceXS;
+      margin-top: $spaceL;
 
       @media screen and (min-width: $pageM) {
+        margin-top: 0;
         font-size: $text2XL;
       }
     }
