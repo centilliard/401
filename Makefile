@@ -12,9 +12,9 @@ MENU_MD=$(wildcard ${SRC_DIR}/menu/*.md)
 MENU_HTML=$(patsubst %.md,%.html,${MENU_MD})
 MENU_HTML_FILES=$(subst ${SRC_DIR},${BUILD_DIR},${MENU_HTML})
 
-.PHONY:  build deploy .git .dirs .tools .scss .html .img .menu
+.PHONY:  build deploy .git .dirs .tools .scss .html .img .menu .sitemap
 
-build: .dirs .tools .scss .html .img .menu
+build: .dirs .tools .scss .html .img .menu .sitemap
 	sed -i -e "/__HEADER_CSS__/{r ${BUILD_DIR}/styles/header.css" -e 'd}' ${BUILD_DIR}/index.html #inject header CSS
 	sed -i -e "/__BRUNCH_MENU__/{r ${BUILD_DIR}/menu/brunch.html" -e 'd}' ${BUILD_DIR}/index.html #inject brunch HTML
 	sed -i -e "/__LUNCH_MENU__/{r ${BUILD_DIR}/menu/lunch.html" -e 'd}' ${BUILD_DIR}/index.html   #inject lunch HTML
@@ -64,6 +64,9 @@ deploy: .git
 	@cp -r ${SRC_DIR}/images ${BUILD_DIR}/
 
 .menu: ${MENU_HTML_FILES}
+
+.sitemap:
+	@cp -v ${SRC_DIR}/sitemap.xml ${BUILD_DIR}/
 
 ${BUILD_DIR}/styles/%.css: ${SRC_DIR}/styles/%.scss
 	mkdir -p "$(@D)"
