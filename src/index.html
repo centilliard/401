@@ -10,9 +10,9 @@
 <header>
     <!--
     --><a href="#" class="logo"></a><!--
-        --><a href="#menu">menu</a><!--
-        --><a href="#about">about</a><!--
-        --><a href="#directions">directions</a>
+        --><a href="#menu" onclick="ga('send', 'pageview', '#menu');return true;">menu</a><!--
+        --><a href="#about" onclick="ga('send', 'pageview', '#about');return true;">about</a><!--
+        --><a href="#directions" onclick="ga('send', 'pageview', '#directions');return true;">directions</a>
 </header>
 <div class="bg-home-mobile page-full bg-gray-dots">
     <section class="card">
@@ -171,12 +171,12 @@
 
 <footer>
     <section class="social bg-gray-dots">
-        <a href="https://www.facebook.com/The401Tavern/"><img src="images/social/facebook.png"></a>
-        <a href="https://twitter.com/The401tavern1"><img src="images/social/twitter.png"></a>
-        <a href="https://www.instagram.com/explore/locations/6392872/"><img src="images/social/instagram.png"></a>
+        <a href="https://www.facebook.com/The401Tavern/" onclick="ga('send', 'event', 'facebook', 'click', 'Social');return true;"><img src="images/social/facebook.png"></a>
+        <a href="https://twitter.com/The401tavern1" onclick="ga('send', 'event', 'twitter', 'click', 'Social');return true;"><img src="images/social/twitter.png"></a>
+        <a href="https://www.instagram.com/explore/locations/6392872/" onclick="ga('send', 'event', 'instagram', 'click', 'Social');return true;"><img src="images/social/instagram.png"></a>
     </section>
     <section class="copyright">
-        (c) 2015 The 401 Tavern // A <a href="https://github.com/centilliard/401">free and open source</a> website by <a href="https://github.com/centilliard">Centilliard Design</a> // Licensed under <a href="https://github.com/centilliard/401/blob/master/LICENSE">GPLv3</a>
+        (c) 2015 The 401 Tavern // A <a href="https://github.com/centilliard/401" onclick="ga('send', 'event', 'source-code', 'click', 'Footer');return true;">free and open source</a> website by <a href="https://github.com/centilliard" onclick="ga('send', 'event', 'repository', 'click', 'Footer');return true;">Centilliard Design</a> // Licensed under <a href="https://github.com/centilliard/401/blob/master/LICENSE" onclick="ga('send', 'event', 'license', 'click', 'Footer');return true;">GPLv3</a>
     </section>
 </footer>
 
@@ -226,6 +226,8 @@
         selected_menu.classList.remove('selected');
         menu.classList.add('selected');
         selected_menu = menu;
+
+        ga('send', 'pageview', menu_id);
 
         return false;
     }
