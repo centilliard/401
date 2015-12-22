@@ -2,6 +2,7 @@ $pageXS: 320px; //iPhone
 $pageS: 375px; //iPhone 6
 $pageM: 540px; //wide enough for the header to be single line
 $pageL: $pageM + 1;
+$pageXL: 1000px; //wide enough for the old tavern image to fit on half the screen
 
 $logoW: 10rem;
 $logoH: 7.6rem;
@@ -48,14 +49,10 @@ $Z_MAX: 100;
   text-align: center;
 }
 
-@mixin bg($urlS, $urlXL, $start: 0.1, $end: 0.6, $startAt:top, $endAt: bottom) {
+@mixin bg($urlXL, $start: 0.1, $end: 0.6, $startAt:top, $endAt: bottom) {
   $from: rgba(0, 0, 0, $start);
   $to: rgba(0, 0, 0, $end);
-  background-image: $urlS;
-
-  @media screen and (min-width: $pageM) {
-    background-image: linear-gradient(to $endAt, $from, $to), $urlXL;
-  }
+  background-image: linear-gradient(to $endAt, $from, $to), $urlXL;
 }
 
 @mixin bg-vignette($urlS, $urlXL, $start: 0.1, $end: 0.6, $color: rgb(0,0,0), $shape: circle, $destination: farthest-corner) {

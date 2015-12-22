@@ -152,8 +152,12 @@ p {
 
 .bg-loft {
   @extend %bg;
-  @include bg(url('../images/bg-loft-570.jpg'),
-          url('../images/bg-loft.jpg'), 0.2, 0.3);
+  @media screen and (max-width: $pageM) {
+    background-image: url('../images/bg-loft-570.jpg');
+  }
+  @media screen and (min-width: $pageM) {
+    @include bg(url('../images/bg-loft.jpg'), 0.2, 0.3);
+  }
 }
 
 .page-loft {

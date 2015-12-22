@@ -102,13 +102,23 @@ header {
   bottom: 0;
 }
 
+.bg-home-mobile {
+  @media screen and (max-width: $pageM) {
+    background-size: cover;
+    background-image: url('../images/home_375.jpg');
+  }
+}
+
 .bg-home {
   @extend %bg;
-  @include bg(url('../images/home_375.jpg'),
-          url('../images/home.jpg'), 0.6, 0.2);
+
+  @media screen and (min-width: $pageM) {
+    @include bg(url('../images/home.jpg'), 0.6, 0.2);
+  }
 }
 
 @media screen and (min-width: $pageM) {
+
   .bg-gray-dots {
     background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAG0lEQVQIW2NkYGD4z8DAwMgABXAGNgGwSgwVAFbmAgXxvZSoAAAAAElFTkSuQmCC);
   }
