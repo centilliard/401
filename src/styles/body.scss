@@ -148,6 +148,56 @@ p {
 
 // endregion
 
+// region BAR
+
+.page-deck {
+  border-bottom: $spaceXS solid $gray_light;
+
+  h1 {
+    background-color: $white;
+    border-color: $gray_light;
+    color: $gray;
+    text-shadow: 0.1rem 0.1rem 0.1rem $gray_light;
+  }
+
+  .deck-pics {
+    height: 60rem;
+    background-color: $gray_light;
+
+    .cell-3 {
+      padding: 0;
+    }
+  }
+
+  .page-deck-left {
+    display: none;
+  }
+
+  .page-deck-center {
+    background: url('../images/bg-deck3.jpg') center no-repeat;
+    border-left: $spaceXS solid $gray_light;
+    border-right: $spaceXS solid $gray_light;
+  }
+
+  .page-deck-right {
+    display: none;
+  }
+
+  @media screen and (min-width: $pageM) {
+    .page-deck-left {
+      background: url('../images/bg-deck2.jpg') center no-repeat;
+      display: inline-block;
+    }
+
+    .page-deck-right {
+      background: url('../images/bg-deck1.jpg') center no-repeat;
+      display: inline-block;
+    }
+  }
+}
+
+// endregion
+
 // region WINE LOFT
 
 .bg-loft {
