@@ -58,7 +58,7 @@ deploy: .git
 
 .scss: ${BUILD_DIR}/styles/header.css ${BUILD_DIR}/styles/body.css
 
-.html: ${BUILD_DIR}/index.html
+.html: ${BUILD_DIR}/index.html ${BUILD_DIR}/404.html
 
 .img:
 	@cp -r ${SRC_DIR}/images ${BUILD_DIR}/
