@@ -531,6 +531,26 @@ p {
   }
 }
 
+// endregion
+
+// region EVENTS
+
+.view-cap, .view-container-border {
+  background-color: #FFFFFF;
+}
+
+.page-events {
+  background-color: #faebd7;
+
+  iframe {
+    width: 100%;
+    border: none;
+    min-height: 60rem ;
+    margin-top: $spaceM;
+  }
+}
+
+// region FOOTER
 footer {
   text-align: center;
 }
