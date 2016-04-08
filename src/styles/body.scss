@@ -541,9 +541,11 @@ p {
 
 .page-events {
   background-color: #faebd7;
+  text-align: center;
 
   iframe {
     width: 100%;
+    max-width: $pageXL;
     border: none;
     min-height: 60rem ;
     margin-top: $spaceM;
