@@ -301,6 +301,10 @@ p {
       border: 0.5rem solid $white_hover;
     }
     
+    div {
+      display: none;
+    }
+    
     div.selected {
       display: block;
     }
