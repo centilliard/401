@@ -300,11 +300,7 @@ p {
     @media screen and (min-width: $pageM) {
       border: 0.5rem solid $white_hover;
     }
-
-    div {
-      display: none;
-    }
-
+    
     div.selected {
       display: block;
     }
