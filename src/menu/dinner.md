@@ -18,7 +18,7 @@ eight shrimp pan flashed with garlic, olive oil, lime and cilantro, chopped scal
 ## (GF) BACON-WRAPPED SCALLOPS *12.91*
 oven roasted sea scallops wrapped with smoked bacon served atop Honey Dijon sauce, pickled onion, chopped scallion
 
-## CRABCAKES *10.59*
+## CRABCAKES *10.91*
 Maryland Blue crab, red bell peppers, scallions, Dijon, pan fried served with Chipotle aioli, pickled onion
 
 ## BAKED PRETZEL STICKS *5.91*
@@ -117,13 +117,13 @@ award winning chili, a blend of six peppers, five beans, ground beef and a sweet
 
 # SALADS
 
-## GARDEN *6.59*
+## GARDEN 
 mixed greens, tomatoes, cucumbers, red onions and carrots with croutons
 
 * Small *3.91*
 * Large *6.91*
 
-## CAESAR *6.59*
+## CAESAR 
 fresh romaine, Caesar dressing, Parmesan cheese with croutons
 
 * Small *3.91*
