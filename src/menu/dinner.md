@@ -1,50 +1,28 @@
 # TAPAS
 
 ## HAND-ROLLED MEATBALLS *6.91*
-with tomato basil sauce and Mozzarella cheese
+homemade marinara, Mozzarella cheese, Parmesan
 
-## CHICKEN POTSTICKERS *9.91*
-pan fried, wonton wrapper, with chili garlic soy, scallion flowers, pickled onion, cilantro and lime
+## CHICKEN POTSTICKERS (6) *9.91*
+cilantro, roasted red peppers, scallion, spicy chili garlic soy, pickled onion
 
-## (GF) CAJUN SEARED SEA SCALLOPS *11.91*
-with red hot syrup, Bleu cheese crumbles, pickled onion, scallion
-
-## CHEESE AND CRACKERS *5.91*
-our homemade Boursin cheese with hearty selection of crackers
-
-## HAVANA SHRIMP *12.91*
-eight shrimp pan flashed with garlic, olive oil, lime and cilantro, chopped scallion served with crostini
+## HAVANA SHRIMP (8) *12.91*
+garlic, olive oil, lime, cilantro, scallion, crostini
 
 ## (GF) BACON-WRAPPED SCALLOPS *12.91*
-oven roasted sea scallops wrapped with smoked bacon served atop Honey Dijon sauce, pickled onion, chopped scallion
+Honey Dijon sauce, pickled onion, scallion
 
 ## CRABCAKES *10.91*
-Maryland Blue crab, red bell peppers, scallions, Dijon, pan fried served with Chipotle aioli, pickled onion
+bell-peppers, Chipotle Aioli, pickled onion, scallions
 
 ## BAKED PRETZEL STICKS *5.91*
 IPA pub mustard, pickled onions
 
-## PETITE NACHOS *6.91*
-with bell pepper-onion confetti and Colby-Jack cheese served with salsa and sour cream
-
-* grilled chicken *7*
-* black angus ground beef *7*
-* chili *4*
-* jalapeno *1*
-
-## PETITE SPINACH AND ARTICHOKE CHEESE DIP *6.91*
-a mixture of spinach and artichoke hearts in a four cheese cream redux dusted with seasoned crumbs served with flat bread points
-
-
-# SHAREABLE APPETIZERS
-
-## (GF) MUSSELS *10.91*
-Prince Edward Island Mussels pan flashed with white wine tossed with garlic thyme
-
-* add grilled Italian bread *1.91*
+## MUSSELS FRA DIAVOLO *12.91*
+garlic, onion, spicy marinara, garlic crostini
 
 ## SPINACH AND ARTICHOKE CHEESE DIP *11.91*
-a mixture of spinach and artichoke hearts in a four cheese cream redux dusted with seasoned crumbs served with flat bread points
+Colby-Jack, cream cheese, Parmesan, lemon, parsley toast points
 
 ## 401 WINGS *11.91*
 Ragin' Honey Garlic, Buffalo, Jamaican Jerk, Teriyaki, BBQ, Thai Peanut
@@ -55,21 +33,17 @@ Ragin' Honey Garlic, Buffalo, Jamaican Jerk, Teriyaki, BBQ, Thai Peanut
 served with celery, carrots and Ranch or Bleu cheese
 
 ## NACHOS *10.91*
-with bell pepper-onion confetti and Colby-Jack cheese served with salsa and sour cream
+bell pepper-onion confetti, Colby-Jack cheese, sour cream
 
 * grilled chicken *7*
 * black angus ground beef *7*
-* chili *4*
 * jalapeno *1*
 
 ## GREEK FLAT BREAD *10.91*
-spinach, artichoke, Boursin cheese, sundried tomato, Kalamata olives, Feta, balsamic reduction
+spinach, artichoke, sun-dried tomato, Kalamata olives, Feta, balsamic reduction
 
-## PEPPERONI FLAT BREAD *8.91*
-marinara cheese and pepperoni
-
-## BUFFALO CHICKEN FLAT BREAD *10.91*
-crispy chicken, Bleu cheese, fiery red pepper sauce, Colby-Jack cheese, pickled onion, scallion
+## TUSCAN SHRIMP FLAT BREAD *10.91*
+artichoke, tomato, garlic, lemon caper aioli, arugula, Parmesan
 
 
 # KIDS' MEALS
