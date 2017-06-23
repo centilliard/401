@@ -195,7 +195,7 @@ haddock, bacon wrapped scallops, crab stuffed shrimp and lobster meat, cream, he
 Chardonnay, fresh lemon, Ritz crumbs, butter, parsley
 
 ## (GF) STEAK TIPS *19.91*
-char=grilled hand cut tips, garlic-peppercorn marinade
+char-grilled hand cut tips, garlic-peppercorn marinade
 
 
 # MAC AND CHEESE ENTREES
