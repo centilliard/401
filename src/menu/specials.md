@@ -25,6 +25,8 @@ quinoa, spinach, asparagus, mushrooms, tomato, onion
 ## (V)(GF) ZUCCHINI LINGUINI
 sun-dried tomatoes, onions, garlic, EVOO, spinach, olives, balsamic reduction
 
+
+
 # Happy Hour
 * Monday - Friday 2 - 5PM
 
@@ -57,6 +59,7 @@ served with ground mustard
 Absolut Vodka, Tito's Vodka, Bacardi Rum, Captain Morgan Rum, Jack Daniels Whiskey, Tanqueray Gin
 ## $7 Absolut or Tito's Vodka Martini
 ## $7 Jack Daniel's Manhattan
+
 
 
 # Seacoast United & The Rim
