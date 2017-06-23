@@ -82,11 +82,11 @@ oven baked with three imported cheeses
 
 # SALADS
 
-## GARDEN 
-mixed greens, tomatoes, cucumbers, red onions and carrots with croutons *7.91* 
+## GARDEN *7.91* 
+mixed greens, tomatoes, cucumbers, red onions and carrots with croutons  
 
-## CAESAR 
-fresh romaine, Caesar dressing, Parmesan cheese, croutons *7.91* 
+## CAESAR *7.91* 
+fresh romaine, Caesar dressing, Parmesan cheese, croutons  
 
 ## (GF) MEDITERRANEAN QUINOA *9.91*
 cucumber, sun-dried tomato, Kalamata olives, onion, feta, arugula, cilantro-lime vinaigrette
