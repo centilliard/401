@@ -1,83 +1,68 @@
-# Lunch Sandwiches
-* Monday - Friday 11AM - 4PM
-* guaranteed in and out in under 55 minutes
-
-## SMOTHERED RIBEYE STEAK SUB *13.59*
-char-grilled juicy 8oz ribeye steak with carmies, Cheddar cheese and mushrooms
-
-## TWIN BEEF CHILI CHEESE HOT DOGS *8.59*
-two grilled beef Hot dogs topped with chili and melted Colby-Jack cheese served in soft toasted bun and potato chips
-
-## TUNA MELT *9.59*
-all-white meat Albacore tuna salad on grilled marbled rye bread with melted Cheddar cheese, sliced tomato and potato chips
-
-## MEATBALL SUB *9.59*
-homemade meatballs and our signature marinara sauce with Provolone cheese served in a sub roll with potato chips
-
-## CHICKEN SALAD WRAP *9.59*
-our fresh homemade chicken salad in a creamy blend of mayo with diced celery, onion, tomato, spring mix served on a herbed tortilla wrap
-
-## FRENCH DIP SANDWICH *12.59*
-shaved prime rib on a bulkie roll with homemade horseradish aioli
-
-## CHICKEN PARM SUB *9.59*
-hand-breaded chicken tenders with marinara sauce, Provolone cheese on a sub roll
-
-
 # Lunch Sets
+* Monday - Friday 11AM - 5PM
+* With full Menu Available 
 
-## GRILLED CHEESE AND CHILI *10.59*
-cup of 401’s signature chili with grilled cheese bites and demi-salad
+## TRIPLE PLAY *17.91*
+1/4 lb of 401's lobster salad, cup of seafood chowder and demi-salad
 
-## PETITE HADDOCK *13.59*
-baked haddock, cup of seafood chowder, and demi-salad
+## PETITE BAKED HADDOCK *13.91*
+lightly breaded native haddock, cup of seafood chowder and demi-salad
 
-## TRIPLE PLAY *16.59* 
-baked haddock, cup of seafood chowder, and demi-salad *
+## LAND & SEA *16.91*
+401's steak tips, 1/2 grilled lobster, Bearnaise aioli and demi-salad
 
-## BLT SANDWICH AND ONION SOUP *10.59*
-bacon, lettuce, tomato, mayo on white bread, cup of French onion soup and demi-salad
+## THE BLT CLASSIC *10.91*
+bacon, lettuce, tomato, mayo on white bread, cup of French Onion soup and demi-salad
 
-# Chef's Famous Dish
 
-## MATE'S PLATE *19.59*
-haddock, bacon wrapped scallops, crab stuffed shrimp and lobster meat with herbed Ritz cracker crumbs in a seafood sauce served with choice of starch and vegetable du jour
+# Luncheon Fare
+
+## PETITE MAC & CHEESE WITH GARDEN SALAD *10.91*
+penne pasta tossed with cream, herbs, Colby-Jack, Mozzarella, Parmesan and topped with herbed Ritz cracker crumbs 
+
+## TWIN GRILLED HOT DOGS *6.91*
+two grilled beef hot dogs in a soft toasted bun served with potato chips
+
+## LOBSTER GRILLED CHEESE SANDWICH *14.91* 
+warm melted Provolone and Swiss cheese and our famous lobster salad sandwiched between two pieces of white bread served with potato chips
+
+## MEDITERRANEAN CHIX WRAP *11.91*
+grilled chicken, field greens, tomato, cucumber, red onion, Kalamata, sun-dried tomato, balsamic syrup, feta cheese in an herbed tortilla wrap served with potato chips
+
+## STEAK & CHEESE SUB *12.91*
+shaved prime rib with American cheese, peppers and onions, served with potato chips
+
+## TWIN BLACKENED FISH TACOS *14.91*
+with Colby-Jack, salsa, lettuce, scallion and served with potato chips
+
+## GARDEN SALAD WITH LOBSTER *14.91*
+401's lobster salad mounted on top of crisp mixed greens, cucumbers, red onions, homemade croutons, grape tomatoes and shredded carrots served with your choice of dressing
+
+## TWIN BUFFALO CHICKEN SLIDERS *12.91*
+our famous breaded chicken tenderloin with Buffalo Sauce and crumbled Bleu cheese nestled between slider buns served with potato chips
 
 # Specials
 
 #### MONDAY
 
-## BURGER MANIA *5.59*
+## BURGER MANIA *5.91*
 401 char-grilled Black Angus beef burger with pickle and potato chips
 ### any additional topping *1/each*
 
 #### TUESDAY
 
-## HOME STYLE BACON WRAPPED MEATLOAF *14.59*
-a slice of our homemade meatloaf with mushroom gravy and mashed potato with vegetable du jour
+## WINE FLIGHT SERIES WITH PAIRED TAPAS
+call in advance for more information
 
-#### WEDNESDAY
-
-## LASAGNA *16.59*
-layers of pasta filled with ricotta, parmesan cheese, ground beef, 401’s signature red sauce served with homemade garlic bread and demi-salad
-
-#### THURSDAY
-
-## CHICKEN POT PIE *13.59*
-fresh-baked chicken pot pie loaded with chunks of chicken and topped with a golden brown flaky crust served with demi-salad
-
-#### FRIDAY, SATURDAY, SUNDAY
+#### FRIDAY, SATURDAY
 
 ## SLOW ROASTED PRIME RIB
-(after 4PM) served with Teriyaki au jus lie
+(after 4PM) served with Au Jus Lie
 ### choice of
-* 401 cut (14 oz) *23.59*
-* Junior cut (10 oz) *19.59*
-
-## SURF & TURF DINNER *25.59*
-our famous steak tips with a casserole of baked scallops served with choice of starch and vegetable du jour
+* Senior cut (14 oz) *23.59*
+* Junior cut (10 oz) *19.91*
 
 #### SUNDAY
 
-## TURKEY DINNER *15.59*
-herbed stuffing, fresh mashed potato, butternut squash and cranberry sauce with homemade gravy
+## COME IN FOR BRUNCH
+delicious brunch served between 10am and 1pm
