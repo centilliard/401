@@ -32,7 +32,7 @@ the citrus and pine of Cascade hops complement a sturdy malt backbone and the fl
 select malts, aromatic hops and water rich in essential salts and minerals combine to give Bass its slight burnt roast aroma and high quality, full bodied flavor
 ### 5.1% ABV // UK
 
-## SIERRA 
+## SIERR
 deep amber color and exceptionally full-bodied, fragrant bouquet and spicy flavors
 ### 5.6% ABV // CALIFORNIA
 
