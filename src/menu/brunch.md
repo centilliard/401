@@ -42,7 +42,7 @@ three eggs any style, sausage, ham or bacon, O'Brien potatoes and toast
 ## BAGEL SANDWICH *6.59*
 with scrambled egg, American cheese, choice of bacon, sausage or ham
 
-## BENNY'S *10.59*
+## BENNY'S *10.91*
 with ham, twin poached eggs and Hollandaise on grilled English muffin with O'Brien potatoes
 
 ## LOBSTER EGGS BENEDICT *12.59*
