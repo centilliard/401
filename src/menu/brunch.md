@@ -3,23 +3,26 @@
 ## BLOODY MARY *8.59*
 vodka and our signature Bloody Mary mix
 
-## BLOODY MARIA *8.59*
-tequila and our signature Bloody Mary mix
-
 ## MIMOSA *8.59*
 champagne and orange juice
 
-## BLOOD ORANGE MIMOSA *9.00*
-blood orange vodka, champagne and orange juice
+## STRAWBERRY MIMOSA *10.00*
+Smirnoff strawberry vodka, champagne, splash of orange juice, splash of pineapple juice
 
-## STRAWBERRY MIMOSA *9.00*
-strawberry vodka, champagne, splash of orange juice, splash of pineapple juice
+## RUBY APPLE *10.00*
+Ciroc Apple Vodka, white wine, pink grapefruit juice 
 
-## RED SANGRIA *8.50*
+## PEACH RED SANGRIA *8.50*
 crisp apple flavors mingle with succulent aromas of Valencia oranges in this fruity, refreshing drink with a cinnamon finish
 
-## WHITE SANGRIA *8.50*
+## PEACH WHITE SANGRIA *8.50*
 subtle tropical fruit flavors of banana and pineapple meet crisp aromas of orange, grapefruit, and a hint of peppermint
+
+## BEACH TOWN TAVERN COCKTAIL *9.00*
+Ciroc Peach Vodka, orange juice and cranberry juice
+
+## BUCKET OF BUBBLES *38.00*
+4 mini bottles of Chandon Brut Classic served perfectly cold in a bucket of ice (Think beer bucket, but classier)! 
 
 ## TEQUILA SUNRISE *8.50*
 tequila, orange juice and dash of Grenadine
