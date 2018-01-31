@@ -1,19 +1,29 @@
-# On The Rocks
-
-## RED / WHITE SANGRIA *8.50*
-One of 401's Best Kept Secrets 
+# Light & Refreshing Cocktails
 
 ## 401 REFRESHER *10*
-Effen Cucumber Vodka, St-Germaine, Elderflower Liqueur and Soda Water
+Svedka Cucumber Lime Vodka, St-Germaine, Elderflower Liqueur and Soda Water
 
-## SYLVIA'S TROPICAL TRANCE *9*
+## CITRON PRESS *10*
+Stoli Citrus Vodka, Freshly Squeezed Lemon and Sugar
+
+## DEEP EDDY GRAPEFRUIT BOMB *10*
+Deep Eddy Ruby Red, Truly Spiked & Sparkling Grapefruit & Pomelo; plug with your thumb, inverse & finish with the orange wedge
+
+# Fruity Cocktails
+
+## RED / WHITE SANGRIA *8.50*
+One of 401's best kept secrets
+
+## TROPICAL TRANCE *10*
 99 Bananas, Absolut Peach Vodka, Malibu Coconut Rum, Orange Juice, Cranberry and Pineapple Juice
 
 ## RUM RUNNER *10*
 Bacardi White Rum, Myers Dark Rum, Arrow Crème de Banana, Orange Juice, Pineapple Juice, Splash of Grenadine with a Floater of Myers Rum 
 
-## DESI'S ISLAND DELIGHT *9*
+## DESI'S ISLAND DELIGHT *10*
 Parrot Bay Mango Rum, Skyy Pineapple Vodka, Bols Curacao and Pineapple Juice
+
+# Classics Cocktails
 
 ## MOSCOW MULE *10*
 Russian Standard Vodka, Freshly Squeezed Lime Juice and 401's Signature Ginger Beer Served in a Mug
@@ -21,92 +31,65 @@ Russian Standard Vodka, Freshly Squeezed Lime Juice and 401's Signature Ginger B
 ## DARK & STORMY *10*
 Gosling's Black Seal Rum and 401's Signature Ginger Beer
 
-## CITRON PRESS *9*
-Absolut Citron Vodka, Freshly Squeezed Lemon and Sugar
-
-## NEGRONI *10*
-Hayman's Old Tom Gin, Cocchi Rosa, Red Vermouth with an Orange Twist Served in Snifter
-
 ## NEW OLD FASHIONED *11*
 Maker's Mark, muddled fresh oranges, Maraschino cherry, bitters and sugar
 
-## COCONUT CRUSHER *12*
-1800 Coconut Tequila, Pineapple Juice and Splash of Chambord
+## BOM BOM ICED LATE *10*
+Bom Bom Coco Mochanut & fresh iced coffee
 
 
-# Martinis *10*
+# Fruity Martinis 
 
-## MOSCATINI ROYALE TINI
-401's Signature Moscato D'Asti and Absolut Pear Vodka
-
-## BLUEBERRY LEMON DROP MARTINI
+## BLUEBERRY LEMON DROP MARTINI *10*
 Stoli Blueberry Vodka, Freshly Squeezed Lemon Juice with a Sugared Rim
-
-## DOLCE VITA MARTINI
-Blood Orange Limoncello Di Sorrento, Absolut Vodka, Cranberry Juice and Lime Juice
 
 ## DIRTY GIRL MARTINI
 Stoli Raspberry Vodka, Peachtree Schnapps, Sour Apple Pucker, Pineapple, Orange Juice and Cranberry Juice
 
-## CANDIED GINGER MARTINI
-Chopin Vodka, Domaine De Canton Ginger, Barenjager Honey Liqueur and Fresh Lime Juice 
-
 ## GRAPEFRUITINI
 Absolut Ruby Red Vodka, St. Germain and Cranberry Juice
-
-## AVIATION MARTINI
-Gordon's Gin, Lemon Juice, Crème De Violette Liqueur and Maraschino Cherry Juice 
-
-## VESPER MARTINI
-Absolut Vodka, Tanqueray Gin, Cocchi Americano 
-
-## ALMOND JOY MARTINI
-DiSaronno Amaretto, Malibu Coconut Rum and Godiva White Chocolate
-
-## MOCHA TEQUILA MARTINI
-Godiva Dark Chocolate, Patron XO
 
 ## POMEGRANATE SHUFFLE TINI
 Three Olives Pomegranate Vodka, Splash of Lemonade and Pomegranate Liqueur
 
+# Creamy Martinis
+
+## ESPRESSO MARTINI
+Three Olives Triple Espresso Vodka & Baileys
+
+## CHOCOLATE MARTINI
+360 Double Chocolate Vodka, Godiva Dark Chocolate Liquer & a chocolate drizzle
+
+## KEY LIME MARTINI
+Stoli Vanil Vodka, pineapple juice, pina colada mix & fresh lime
+
 
 # Specialty Margaritas
 
-## 401 HOUSE MARGARITA *8.50*
+## HOUSE MARGARITA *8.50*
 El Toro Tequila, Triple Sec, Sour Mix and a Splash of Orange Juice
 
-## APRICOT MARGARITA *12*
-1800 Silver Tequila, Orchard Apricot Liqueur and Sour Mix
+## CADILLAC MARGARITA *15*
+Patron Silver Tequila, Grand Marnier & fresh lime
 
-## FRENCH GINGER MARGARITA *13*
-Hornitos Silver Tequila, Domaine de Canton Ginger Liqueur and Freshly Squeezed Lime
+## EL COCO DOBLE MARGARITA *13*
+1800 Coconut Tequila, freshly squeezed lime juice & simple syrup
 
-## ISLAND COCONUT MARGARITA *12*
-1800 Coconut Tequila, Sour Mix and Island Oasis Pina Colada
-
-## BLOOD ORANGE MARGARITA *14*
-Patron Silver Tequila, Di Sorrento Blood Orange, Sour Mix and Splash of Orange Juice
-
-## GRAPEFRUIT MARGARITA *12*
-Hornitos Silver Tequila, Triple Sec, Grapefruit Juice and Splash of Sour Mix
-
-## LIMONCELLO MARGARITA *13*
-1800 Silver Tequila, Di Sorrento Limoncello and Freshly Squeezed Lime Juice
-
-## PINEAPPLE MARGARITA *13*
-Milagro Reposado Tequila, Triple Sec, Pineapple Juice and Island Oasis Margarita Mix
-
-## MELON MARGARITA *12*
-1800 Silver Tequila, Midori Melon Liqueur, Sour Mix and Splash of Orange Juice
-
-## PEACH MARGARITA *12*
-Hornitos Silver Tequila, Peach Schnapps, Splash of Cranberry Juice and Sour Mix
-
-## X-RATED MARGARITA *14*
-Don Julio Blanco Tequila, X-Rated Fusion Liqueur, Agave Nectar, Muddled Limes
-
-## ELDERFLOWER MARGARITA *13*
+## ELDERFLOWER KISS MARGARITA *13*
 Hornitos Silver Tequila, St-Germaine Elderflower Liqueur and Fresh Lime Juice
+
+## MEXICAN MULE *12*
+Espolon Silver Tequila, ginger beer, fresh lime juice & splash of cranberry, served in copper mug
+
+# Manhattans
+## BOULVERDADER *13*
+Gentleman Jack, Campari & sweet vermouth
+
+## WOODFORD MANHATTAN *12*
+Woodford Reserve Bourbon, a dash of Woodford Reserve bitters & a Luxardo cherry garnish
+
+## VESPER MARTINI *11*
+Vodka, Tanqueray Gin & Cocchi Americano Aperitif Wine, served with lemon twist
 
 
 # 401 Frozen Drinks
