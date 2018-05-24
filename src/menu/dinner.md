@@ -80,10 +80,10 @@ mixed greens, tomatoes, cucumbers, red onions and carrots with croutons
 ## CAESAR *7.91* 
 fresh romaine, Caesar dressing, Parmesan cheese, croutons  
 
-## (GF) MEDITERRANEAN QUINOA *9.91*
+## (GF) MEDITERRANEAN QUINOA *10.91*
 cucumber, sun-dried tomato, Kalamata olives, onion, feta, arugula, cilantro-lime vinaigrette
 
-## (GF) BABY SPINACH AND GORGONZOLA *9.91*
+## (GF) BABY SPINACH AND GORGONZOLA *10.91*
 cranberries, mandarin oranges, almonds, blue cheese, pomegranate vinaigrette
 
 ### add any of the below to the above salads
@@ -92,12 +92,11 @@ cranberries, mandarin oranges, almonds, blue cheese, pomegranate vinaigrette
 * grilled shrimp *12*
 * steak tips *12*
 * lobster salad *12*
-* grilled 1/2 lobster *10*
 
-## THAI PEANUT CHICKEN *15.91*
+## THAI PEANUT CHICKEN *16.91*
 field greens, Mandarin oranges, lo-mein noodles, sesame-coconut chicken, cilantro, bell pepper-onion confetti, almonds, Thai Peanut vinaigrette
 
-## SURF AND TURF CAESAR *19.91*
+## SURF AND TURF CAESAR *20.91*
 steak tips and scallops wrapped in bacon atop a Caesar salad
 
 
@@ -124,28 +123,25 @@ char-grilled Black Angus beef burger with teriyaki, Swiss cheese, mushrooms, car
 ## BUCKAROO *12.91*
 char-grilled Black Angus beef burger with BBQ sauce, Cheddar cheese, bacon
 
-## PATTY MELT *12.91*
-char-grilled Black Angus beef burger on marbled rye with sauteed onions, bacon, American cheese
-
 
 # SANDWICHES
 * all sandwiches include potato chips and pickle
 * no substitutions
 
-## CLASSIC CAESAR WRAP *11.91*
-grilled chicken with our Caesar salad, croutons, Parmesan cheese
-
 ## QUESADILLA *7.91*
-Colby-Jack cheese, bell pepper-onion confetti, sour cream 
+Colby-Jack cheese, bell pepper-onion confetti, sour cream, salsa 
 * chicken *7*
 * steak *12*
 * black angus ground beef *7*
 
-## NEW ENGLAND LOBSTER ROLL *14.91*
+## LOBSTER ROLL *15.91*
 claw and knuckle, lemon, celery, mayo, iceberg lettuce
 
 ## CORNED BEED REUBEN *12.91*
 sauerkraut, Thousand Island dressing, Swiss cheese, marbled rye
+
+## PHILLY CHEESE STEAK *13.91*
+shaved prime rib with American cheese, peppers and onions
 
 ## HADDOCK SANDWICH *12.91*
 iceberg lettuce, tartar sauce, lemon, toasted bun 
@@ -153,11 +149,11 @@ iceberg lettuce, tartar sauce, lemon, toasted bun
 ## TWIN CHICKEN BLT TACOS *12.91*
 grilled chicken, iceberg lettuce, bacon, tomato, chipotle aioli, scallion
 
-## (GF) CHICKEN PALERMO *11.91*
-Provolone cheese, red pepper, artichokes, prosciutto, arugula, pickled onion
-
 ## BLACK BEAN BURGER *11.91*
 house made vegetarian burger with black beans, tomato, onion, garlic, cilantro, lime with chipotle aioli, lettuce, tomato, onion
+
+## PATTY MELT *12.91*
+char-grilled Black Angus beef burger on marbled rye with sauteed onions, bacon, American cheese
 
 
 # CLASSIC ENTREES
