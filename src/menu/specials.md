@@ -26,7 +26,7 @@ Chef's choice of tacos!
 Shrimp *1.00*
 Bud, Bud Lite, Coors Lite, Miller Lite *3.00*
 
-#### THURSDAY (4pm - Close)
+#### THURSDAY
 
 ## COMFORT THURSDAY (4pm - Close)
 Chef's choice of Comfort Foods!
