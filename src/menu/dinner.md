@@ -159,6 +159,24 @@ char-grilled Black Angus beef burger on marbled rye with sauteed onions, bacon, 
 # CLASSIC ENTREES
 * all entrees include a choice of  homemade mashed potatoes, baked potato, rice pilaf, O'Brien potatoes, or quinoa and vegetable of the day, unless stated otherwise
 
+## SHRIMP & LOBSTER SCAMPI *24.91*
+tomatoes, onion, mushroom, spinach, garlic butter, white wine, penne pasta, Parmesan
+
+## BAKED NATIVE HADDOCK *19.91*
+Chardonnay, fresh lemon, Ritz crumbs, butter, parsley
+
+## HONEY DIJON SCALLOPS *23.91*
+baked until golden brown with Honey Dijon, Ritz cracker topping
+
+## (GF) STEAK TIPS *20.91*
+char-grilled hand cut tips, garlic-peppercorn marinade## MATE'S PLATE *24.91*
+
+## MATE'S PLATE *24.91*
+haddock, bacon wrapped scallops, shrimp and lobster meat, cream, herbs, Ritz cracker crumbs
+
+
+# CELIAC FRIENDLY ENTREES
+
 ## (V)(GF) ZUCCHINI LINGUINI *14.91*
 sun-dried tomatoes, onions, garlic, EVOO, spinach, olives, balsamic reduction
 
@@ -167,24 +185,10 @@ sun-dried tomatoes, onions, garlic, EVOO, spinach, olives, balsamic reduction
 * (GF) grilled scallops *12*
 * (GF) grilled shrimp *12*
 * (GF) steak tips *12*
-* (GF) grilled 1/2 lobster *10*
-* (GF) feta cheese *2*
+* (GF) feta cheese *1*
 
 ## (GF) HERBED CHICKEN BREAST *15.91*
 quinoa, spinach, asparagus, mushrooms, tomato, onion
-
-## SHRIMP & LOBSTER SCAMPI *24.91*
-tomatoes, onion, mushroom, spinach, garlic butter, white wine, penne pasta, Parmesan
-
-## MATE'S PLATE *24.91*
-haddock, bacon wrapped scallops, crab stuffed shrimp and lobster meat, cream, herbs, Ritz cracker crumbs
-
-## BAKED NATIVE HADDOCK *19.91*
-Chardonnay, fresh lemon, Ritz crumbs, butter, parsley
-
-## (GF) STEAK TIPS *19.91*
-char-grilled hand cut tips, garlic-peppercorn marinade
-
 
 # MAC AND CHEESE ENTREES
 
@@ -196,7 +200,6 @@ penne pasta tossed with cream, herbs, Colby-Jack, Mozzarela and Parmesan topped 
 * grilled chicken *7*
 * bacon wrapped scallops *10*
 * grilled shrimp *12*
-* hot dog *5*
 
 ## BACON CHEESEBURGER MAC *16.91*
 Black Angus ground beef, 401 Mac and Cheese, crispy bacon, scallion 
@@ -206,6 +209,17 @@ Black Angus ground beef, 401 Mac and Cheese, crispy bacon, scallion
 
 ## SIGNATURE B.L.T. MAC *21.91*
 401 Mac and Cheese, crispy bacon, claw and knuckle lobster, tomatoes, scallion
+
+# DINNER TRIOS
+
+## PETITE BAKED HADDOCK *17.91*
+lightly breaded native haddock, cup of seafood chowder and deni-salad
+
+## TRIPLE PLAY *22.91*
+401's lobster salad in a hot dog roll, cup of seafood chowder and demi-salad
+
+## LAND & SEA *20.91*
+401's steak tips, 1/2 grilled lobster, Bearnaise aioli and demi-salad
 
 # SIDES
 * (GF) Baked Potato, Vegetable of Day, Quinoa, Mashed Potato, O'Brien Potato *2.91*
