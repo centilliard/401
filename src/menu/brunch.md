@@ -1,7 +1,10 @@
 # Libations
 
-## BLOODY MARY *8.59*
+## HOUSE BLOODY MARY *8.59*
 vodka and our signature Bloody Mary mix
+
+## BETTY BLOODY MARY *9.59*
+Deep Eddy Vodka, our signature Bloody Mary mix, salted rim
 
 ## MIMOSA *8.59*
 champagne and orange juice
@@ -9,23 +12,14 @@ champagne and orange juice
 ## STRAWBERRY MIMOSA *10.00*
 Smirnoff strawberry vodka, champagne, splash of orange juice, splash of pineapple juice
 
-## RUBY APPLE *10.00*
-Ciroc Apple Vodka, white wine, pink grapefruit juice 
+## RAZZ-MOSA *10.00*
+Stolichnaya Razberi, champagne, splash of orange juice, sugar rim
 
-## PEACH RED SANGRIA *8.50*
-crisp apple flavors mingle with succulent aromas of Valencia oranges in this fruity, refreshing drink with a cinnamon finish
+## APEROL SPRITZ *11.00*
+Aperol, Soda water, Maschio Prosecco, orange wedge garnish
 
-## PEACH WHITE SANGRIA *8.50*
-subtle tropical fruit flavors of banana and pineapple meet crisp aromas of orange, grapefruit, and a hint of peppermint
-
-## BEACH TOWN TAVERN COCKTAIL *9.00*
-Ciroc Peach Vodka, orange juice and cranberry juice
-
-## BUCKET OF BUBBLES *38.00*
-4 mini bottles of Chandon Brut Classic served perfectly cold in a bucket of ice (Think beer bucket, but classier)! 
-
-## TEQUILA SUNRISE *8.50*
-tequila, orange juice and dash of Grenadine
+## SUNDAY FUNDAY TINI *11.00*
+Stolichnaya Vanil Vodka, RumChata & Kahlua Coffee Liquor, chocolate swirl
 
 
 # SPECIAL
@@ -36,7 +30,7 @@ bagel or English muffin with scrambled egg, American cheese, choice of bacon, sa
 
 # Eggs
 
-## EARLY RISER *10.91*
+## EARLY RISER *11.91*
 three eggs any style, sausage, ham or bacon, O'Brien potatoes and toast
 
 ## 401 OMELET *11.91*
@@ -63,7 +57,7 @@ sautéed spinach atop English muffin with poached eggs, hollandaise sauce with O
 
 # Griddle Classics
 
-## FRENCH TOAST *9.59*
+## FRENCH TOAST *10.91*
 thick sliced egg, cinnamon-sugar battered country white bread with maple syrup and choice of sausage, ham or bacon
 
 
