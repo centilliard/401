@@ -29,7 +29,7 @@ warm melted Provolone and Swiss cheese and our famous lobster salad sandwiched b
 ## MEDITERRANEAN CHIX WRAP *11.91*
 grilled chicken, field greens, tomato, cucumber, red onion, Kalamata, sun-dried tomato, balsamic syrup, feta cheese in an herbed tortilla wrap served with potato chips
 
-## STEAK & CHEESE SUB *12.91*
+## STEAK & CHEESE SUB *13.91*
 shaved prime rib with American cheese, peppers and onions, served with potato chips
 
 ## TWIN BLACKENED FISH TACOS *14.91*
