@@ -1,31 +1,46 @@
-# Early Bird *14.91*
-* Monday - Friday 2 - 5PM
-* Taxes and beverages are not included
-* Not available on major holidays
-* all entrees come with a choice of French Onion Soup or Petite Garden Salad or Petite Caesar Salad and Dessert (Choice of Ice Cream Sundae or Pie of the Day)
+# Specials
 
-## BAKED NATIVE HADDOCK
-Chardonnay, lemon, Ritz crumbs, butter, parsley, vegetable and choice of starch
+#### SUNDAY
 
-## (GF) STEAK TIPS
-char-grilled hand cut tips, garlic peppercorn marinade, vegetable, choice of starch
+## EGGS & BUBBLES (9:30am - 1pm)
+Sunday Brunch
 
-## SHRIMP SCAMPI ATOP PENNE
-tomatoes, onion, mushroom, spinach, garlic butter, white wine, penne pasta, Parmesan
-
-## 401 MAC AND CHEESE
-penne pasta tossed with cream, herbs, Colby-Jack, Mozzarella and Parmesan topped with herbed Ritz cracker crumbs
-
-## NEW ENGLAND LOBSTER ROLL
-claw and knuckle, lemon, celery, mayo, iceberg lettuce, potato chips
-
-## (GF) HERBED CHICKEN BREAST
-quinoa, spinach, asparagus, mushrooms, tomato, onion
-
-## (V)(GF) ZUCCHINI LINGUINI
-sun-dried tomatoes, onions, garlic, EVOO, spinach, olives, balsamic reduction
+## SLIDER SUNDAY (1pm - Close)
+Sunday Brunch
 
 
+#### MONDAY
+
+## BURGER MANIA (11am - Close)
+401 Black Angus beef burger with lettuce, tomato, onion, pickle and potato chips *5.91*
+### any additional topping *1/each*
+
+#### TUESDAY
+
+## TACOS (4pm - Close)
+Chef's choice of tacos!
+
+#### WEDNESDAY
+
+## SHRIMP & SUDS (4pm - Close)
+Shrimp *1.00*
+Bud, Bud Lite, Coors Lite, Miller Lite *3.00*
+
+#### THURSDAY (4pm - Close)
+
+## COMFORT THURSDAY (4pm - Close)
+Chef's choice of Comfort Foods!
+
+#### FRIDAY, SATURDAY
+
+## SLOW ROASTED PRIME RIB (4pm - Close)
+Served with Mashed Potato, Au Jus, Vegetable of the Day
+### choice of
+* Senior cut (14 oz) *24.91*
+* Junior cut (10 oz) *19.91*
+
+## CATCH OF THE DAY (4pm - Close)
+Chef's choice of Fish!
 
 # Happy Hour
 * Monday - Friday 2 - 5PM
