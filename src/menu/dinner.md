@@ -1,27 +1,15 @@
 # TAPAS
 
-## HAND-ROLLED MEATBALLS *6.91*
-homemade marinara, Mozzarella cheese, Parmesan
-
-## CHICKEN POTSTICKERS (6) *9.91*
-cilantro, roasted red peppers, scallion, spicy chili garlic soy, pickled onion
-
 ## HAVANA SHRIMP (8) *12.91*
 garlic, olive oil, lime, cilantro, scallion, crostini
 
 ## (GF) BACON-WRAPPED SCALLOPS *12.91*
 Honey Dijon sauce, pickled onion, scallion
 
-## CRABCAKES *10.91*
-bell-peppers, Chipotle Aioli, pickled onion, scallions
-
-## BAKED PRETZEL STICKS *5.91*
+## BAKED PRETZEL STICKS *6.91*
 IPA pub mustard, pickled onions
 
-## MUSSELS FRA DIAVOLO *12.91*
-garlic, onion, spicy marinara, garlic crostini
-
-## SPINACH AND ARTICHOKE CHEESE DIP *11.91*
+## SPINACH AND ARTICHOKE CHEESE DIP *12.91*
 Colby-Jack, cream cheese, Parmesan, lemon, parsley toast points
 
 ## 401 WINGS *11.91*
@@ -33,7 +21,7 @@ Ragin' Honey Garlic, Buffalo, Jamaican Jerk, Teriyaki, BBQ, Thai Peanut
 served with celery, carrots and Ranch or Bleu cheese
 
 ## NACHOS *10.91*
-bell pepper-onion confetti, Colby-Jack cheese, sour cream
+bell pepper-onion confetti, Colby-Jack cheese, sour cream, salsa
 
 * grilled chicken *7*
 * black angus ground beef *7*
@@ -41,9 +29,6 @@ bell pepper-onion confetti, Colby-Jack cheese, sour cream
 
 ## GREEK FLAT BREAD *10.91*
 spinach, artichoke, sun-dried tomato, Kalamata olives, Feta, balsamic reduction
-
-## TUSCAN SHRIMP FLAT BREAD *10.91*
-artichoke, tomato, garlic, lemon caper aioli, arugula, Parmesan
 
 
 # KIDS' MEALS
@@ -79,6 +64,13 @@ oven baked with three imported cheeses
 
 * Cup *4.91*
 * Bowl *7.91*
+
+## CHEF DUVALL'S CHILI
+award winning chili with 6 beans served with tortilla chips
+
+* Cup *4.91*
+* Bowl *9.91*
+
 
 # SALADS
 
