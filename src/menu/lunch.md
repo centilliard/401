@@ -41,28 +41,3 @@ with Colby-Jack, salsa, lettuce, scallion and served with potato chips
 ## TWIN BUFFALO CHICKEN SLIDERS *12.91*
 our famous breaded chicken tenderloin with Buffalo Sauce and crumbled Bleu cheese nestled between slider buns served with potato chips
 
-# Specials
-
-#### MONDAY
-
-## BURGER MANIA *5.91*
-401 char-grilled Black Angus beef burger with pickle and potato chips
-### any additional topping *1/each*
-
-#### TUESDAY
-
-## WINE FLIGHT SERIES WITH PAIRED TAPAS
-call in advance for more information
-
-#### FRIDAY, SATURDAY
-
-## SLOW ROASTED PRIME RIB
-(after 4PM) served with Au Jus Lie
-### choice of
-* Senior cut (14 oz) *23.59*
-* Junior cut (10 oz) *19.91*
-
-#### SUNDAY
-
-## COME IN FOR BRUNCH
-delicious brunch served between 10am and 1pm
