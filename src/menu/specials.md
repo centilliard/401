@@ -52,18 +52,23 @@ served with ground mustard
 
 ### DRINKS SPECIALS
 
-## $2 Narragansett
-## $3 Bottled Domestic Beers
-## $4 Any Draft Beer
+## $3 Bottled Beers
+Budweiser, Bud Lite, Coors Original, Coors Lite, Miller Lite, Rolling Rock
+## $4 Select Draft Beer
+Stella, Sam Adams, Smuttynose, Harpoon, Tuckerman, Blue Moon, Allegash, Angry Orchard, Sea Dog, Ipswich, Guinness, New Belgium, All Neighborhood Beers
 ## $5 One Liquor Drinks
-Absolut Vodka, Tito's Vodka, Bacardi Rum, Captain Morgan Rum, Jack Daniels Whiskey, Tanqueray Gin
-## $7 Absolut or Tito's Vodka Martini
-## $7 Jack Daniel's Manhattan
+Stoli Vodka, Tito's Vodka, Bacardi Rum, Captain Morgan Spiced Rum, Jack Daniels Whiskey, Tanqueray Gin
+## $6 House Wines
+Pinot Grigio, Chardonnay, Cabernet Sauvignon, Merlot, White Zinfandel
+## $7 Martini / Manhattan
+Classic Tanqueray Gin Martini
+Classic Tito's Vodka Martini
+Jack Daniel's Whiskey Manhattan
 
 
 
 # Seacoast United & The Rim
-* 2017 - 2018 Specials @ The 401 Tavern
+* 2018 - 2019 Specials @ The 401 Tavern
 * Monday - Thursday 6PM - CLOSE
 * You don't have to win to celebrate! Grab your teammates and wear your Seacoast United and Rim T-shirt or show your card to save 
 * Dine-in only 
