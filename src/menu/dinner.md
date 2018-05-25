@@ -244,3 +244,28 @@ penne pasta tossed with cream, herbs, Colby-Jack, Mozzarela and Parmesan
 
 ## HOT DOG *8.91*
 served with potato chips
+
+
+# DESSERTS
+
+## CHOCOLATE PEANUT BUTTER PIE W/ REESE'S PEANUT BUTTER CUPS *8.91*
+the popular candy bar in a pie, dark chocolate and peanut butter mousse full of Reese's Peanut Butter Cups
+
+## FOUR HIGH CARROT CAKE *8.91*
+layer upon layer of moist carrot cake studded with raisins, walnuts and pineapple...finished with smooth cream cheese icing and a drizzle of white chocolate ganache
+
+## CHOC'LATE LOVIN SPOON CAKE *8.91*
+a giant mouthful of chocolate pudding between two layers of dark, moist chocolate drenched chocolate cake
+
+## BLUEBERRY COBBLER WHITE CHOCOLATE CHEESECAKE *8.91*
+moist chunks of vanilla-bean cream cake and sweet swirls of berry compote meets the creamiest of white chocolate cheesecake in this indulgent hybrid
+
+## (GF) VANILLA BEAN BRULEE INDIVIDUAL CHEESECAKE *8.91*
+a vanilla bean creme brulee custard with Madagascar vanilla pods folded into our cheesecake batter
+
+## SALTED CARAMEL VANILLA CRUNCH CAKE *8.91*
+salted caramel crunch layer, a creamy custard layer and a caramel finish
+
+## ICE CREAM SUNDAE *6.91*
+vanilla icecream topped with chocolate syrup, whipped cream and a cherry
+
