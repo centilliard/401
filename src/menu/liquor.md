@@ -8,7 +8,6 @@
 ## Don Julio *11*
 ## Herradura *11*
 ## Hornitos *9*
-## Kah *11*
 ## Milagro Select Barrel *12*
 ## Patron *11*
 ## Cuervo Silver *9*
@@ -86,7 +85,7 @@ Cherry / Honey / Maple
 ## Knob Creek Single Barrel *12*
 ## Maker's Mark *9.25*
 ## Wild Turkey *9.25*
-## Woodford Reserve *10*
+## Woodford Reserve *11*
 
 
 # Rye
@@ -124,22 +123,6 @@ Cherry / Honey / Maple
 ## Michael Collins *8.25*
 ## Powers *8.25*
 ## Tullamore Dew *8.25*
-
-
-# Whiskey Flight
-* 1 oz taste
-
-## Knob Creek *14*
-Knob Creek Straight, Knob Creek Single Barrel, Knob Creek Rye
-
-## Small Batch Bourbons *16*
-Baker's, Basil Hayden, Booker's
-
-## Jim Beam 101 *12*
-Jim Beam Original, Jim Beam Black 8 Year, Jim Beam Signature Craft 12
-
-## Flavored Batch *10*
-Jim Beam Honey, Jim Beam Maple, Red Stag Black Cherry
 
 
 # Vodka
@@ -201,16 +184,12 @@ Jim Beam Honey, Jim Beam Maple, Red Stag Black Cherry
 
 # Gluten-Free Vodka
 
-## Bakon *7.75*
-Potato
-### US
-
 ## Chopin *9.25*
 Potato
 ### Poland
 
 ## Ciroc *8.25*
-Grape 
+All flavors 
 ### France
 
 ## Cold River *9.25*
@@ -231,9 +210,6 @@ Corn
 ## Effen Cucumber *8.25*
 ### Holland
 
-## Finlandia Grapefruit *7.75*
-### Finland
-
 ## Firefly Sweet Tea Vodka *7.75*
 ### South Carolina
 
@@ -250,9 +226,6 @@ Corn
 
 ## Captain Morgan *7.75*
 ### Jamaica
-
-## Chila Orchata Cinnamon Rum *7.75*
-### Virgin Islands
 
 ## Cruzan Aged Dark Rum *7.75*
 ### St. Croix
@@ -304,9 +277,6 @@ Corn
 
 ## (GF) Cold River Gin *9.25*
 ### Maine
-
-## Hayman's Old Tom Gin *8.25*
-### England
 
 ## Hendrick's *10.25*
 ### Scotland
