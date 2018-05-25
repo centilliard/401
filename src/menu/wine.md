@@ -1,56 +1,70 @@
 # Whites
 
-## 2013 SARTORI PINOT GRIGIO *10/38*
+## SARTORI PINOT GRIGIO *10/38*
 delicate fruit and citrus bouquet, fresh and crisp
 ### Friuli Venezia 
 
-## 2014 J. LOHR CHARDONNAY *9/36*
+## J. LOHR CHARDONNAY *9/36*
 aromas of pear, apple and lemon custard with notes of roasted hazelnut, vanilla and toasty oak
 ### Monterey
 
-## 2013 KENDALL-JACKSON CHARDONNAY *9/36*
+## KENDALL-JACKSON CHARDONNAY *9/36*
 tropical flavors of pineapple, mango, and papaya with citrus notes
 ### Monterey
 
-## 2014 SIMI SAUVIGNON BLANC *11/42*
+## BUTTER CHARDONNAY *12/46*
+juicy, ripe notes of stone fruits & baked lemons, a long, lovely vanilla finish that leaves you wanting more
+### California
+
+## SIMI SAUVIGNON BLANC *11/42*
 notes of lime zest, pink grapefruit, and fresh lemon grass followed by green papaya, passion fruit, and green apple
 ### Sonoma
 
-## 2014 KIM CRAWFORD SAUVIGNON BLANC *11/42* 
-aromas of pink grapefruit, key lime, passion fruit, and pineapple
+## KIM CRAWFORD SAUVIGNON BLANC *11/42* 
+juicy acidity & fruit sweetness with a balanced flavor profile
 ### Marlborough
 
-## 2012 PACIFIC RIM SWEET RIESLING *9/36*
-flavors of pineapple, peach, and hints of honey
+## PACIFIC RIM SWEET RIESLING *9/36*
+sweet, bright acidity with pineapple & white peach
 ### Washington
 
+## MOVENDO MOSCATO *9/36*
+straw color with luscious mouthfeel, fruity with the perfect amount of acidity to balance the sweetness
+### Italy
 
 # Reds
 
-## 2013 CARTLIDGE & BROWNE PINOT NOIR *10/38*
-flavors of cherry, raspberry and ripe tomato are balanced by a layer of earthy mushroom
-### Central Coast
+## MARK WEST PINOT NOIR *10/38*
+medium-bodied, fruity red that features scents of spice, dark fruit & cassis with notes of savory & smoky oak
+### California
 
-## 2013 STERLING VINTNER’S COLLECTION CABERNET SAUVIGNON *9/36* 
+## STERLING VINTNER’S COLLECTION CABERNET SAUVIGNON *9/36* 
 rich black fruit flavors with hints of toffee and chocolate
 ### North Coast
 
-## 2013 14 HANDS CABERNET SAUVIGNON *9/36*
-aromas of blueberries and black currants with a touch of cocoa and accentuated by fine, velvety tannins
-### Washington
+## IRON SIDE CABERNET SAUVIGNON *9/36*
+hearty aromas of black cherry, plum, tobacco & sweet spice
+### California
 
-## 2013 BANFI CENTINE SUPER TOSCANO SANGIOVESE / CABERNET SAUVIGNON/ MERLOT *9/36*
-aromas of strawberries, cream and flan with a fruity lively finish
+## ROBERT MONDAVI PRIVATE SELECTION BOURBON BARREL-AGED CABERNET SAUVIGNON *11/42*
+toasty vanilla, brown sugar, tastes of black cherry & blackberry
+### California
+
+## CECCHI CHIANTI CLASSICO *10/38*
+fine nose, the taste is intense & persistent, its structure is large with great balance
 ### Tuscany
 
-## 2013 SEPTIMA MALBEC *9/36*
-bright intense violet red, elegant and complex with notes of black-berry and plum jam
+## TRAPICHE OAK CASK MALBEC *9/36*
+soft and round with ripe, saturated berry flavors
 ### Mendoza
 
+## OMEN RED BLEND *11/42*
+blackberry jam, dark chocolate & licorice are spiced up by a touch of green peppercorn
+### Mendoza
 
-# Sparkling
+# Sparkling & Rose
 
-## N.V. WYCLIFF CHAMPAGNE *9/36*
+## N.V. WYCLIFF CHAMPAGNE *8.50*
 sweet with a crisp clean finish
 ### California
 
@@ -58,10 +72,13 @@ sweet with a crisp clean finish
 semi-dry with flavors of white peach, orange blossoms and almond
 ### Veneto
 
-## N.V. BANFI ROSA REGALE BRACHETTO *10*
-aromas of raspberries, strawberries, and rose petals
-### Piedmont
+## DOMAINE CHANDON BRUT *11*
+hints of brioche & nuttiness, an almond & caramel bouquet, with fruity apple & pear flavors
+### California
 
+## 90+ CELLARS LOT 33 ROSE *9/36*
+aromas of ripe strawberries & cherries, dry & bright on the palate
+### France
 
 #  Bubbly & Festive
 * only by the bottle
@@ -78,20 +95,14 @@ aromas of raspberries, strawberries, and rose petals
 
 # Dessert Wines
 
-## 2009 JEWELL TOWNE ICE WINE *10*
-### South Hampton
-
-## 2009 TABALI LATE HARVEST MUSCAT *7*
-### Chile
-
-## 2007 FAMILIA DEICAS, LICOR DE TANNAT *11*
-### Uruguay
-
-## N.V. WARRE’S, TAWNY PORT, 20 YEARS *14*
+## COCKBURN'S SPECIAL RESERVE PORT *10*
 ### Portugal
 
-## N.V. COCKBURNS SPECIAL RESERVE *10*
+## TAYLOR FLADGATE 10 YEAR TAWNY PORT *11*
 ### Portugal
 
-## N.V. HARVEY’S, BRISTOL CREAM SHERRY *6*
+## WARRE’S OTIMA 10 YEAR TAWNY PORT *12*
+### Portugal
+
+## HARVEY’S, BRISTOL CREAM SHERRY *7*
 ### Spain
