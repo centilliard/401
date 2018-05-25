@@ -227,3 +227,20 @@ lightly breaded native haddock, cup of seafood chowder and deni-salad
 * 1/2 Mac & Cheese *5.91*
 * Side Caesar *4.91*
 * Side Garden Salad *4.91*
+
+
+# KIDS' MEALS
+* 10 and under please
+* all kids' meals come with a petite ice cream sundae
+
+## PLAIN CHICKEN TENDERS *8.91*
+served with potato chips
+
+## GRILLED CHEESE *8.91*
+on white bread with American cheese served with potato chips
+
+## MAC & CHEESE *8.91*
+penne pasta tossed with cream, herbs, Colby-Jack, Mozzarela and Parmesan
+
+## HOT DOG *8.91*
+served with potato chips
