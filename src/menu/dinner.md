@@ -239,7 +239,7 @@ on white bread with American cheese served with potato chips
 ## MAC & CHEESE *8.91*
 penne pasta tossed with cream, herbs, Colby-Jack, Mozzarela and Parmesan
 
-## PENNE AND RED SAUCE
+## PENNE AND RED SAUCE *8.91*
 penne pasta, homemade marinara sauce
 
 # DESSERTS
