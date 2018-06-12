@@ -22,9 +22,9 @@ Chef's choice of tacos!
 
 #### WEDNESDAY
 
-## SHRIMP & SUDS (4pm - Close)
+## SHRIMP & OYSTERS (4pm - Close)
 Shrimp *1.00*
-Bud, Bud Lite, Coors Lite, Miller Lite *3.00*
+Oyster *1.00*
 
 #### THURSDAY
 
@@ -43,38 +43,22 @@ Served with Mashed Potato, Au Jus, Vegetable of the Day
 Chef's choice of Fish!
 
 # Happy Hour
-* Monday - Friday 2 - 5PM
-
-### APPETIZERS $6.91
-
-## WING OR TENDERS
-Ragin' Honey Garlic, Buffalo, Jamaican Jerk, Teryiaki, BBQ, Thai Peanut with celery, carrots and Ranch or Bleu cheese
-
-## NACHOS
-with bell-pepper onion confetti and Colby-Jack cheese served with salsa and sour cream
-
-## GREEK FLAT BREAD
-spinach, artichoke, Boursin cheese, sun-dried tomato, Kalamata olives, feta
-
-## PEPPERONI FLAT BREAD
-marinara, cheese and pepperoni
-
-## BUFFALO CHIX FLAT BREAD
-crispy chicken, Bleu cheese, fiery red pepper sauce, Colby-Jack
-
-## PRETZEL STICKS
-served with ground mustard
+* Monday - Friday 11AM - 5PM
 
 ### DRINKS SPECIALS
 
 ## $3 Bottled Beers
 Budweiser, Bud Lite, Coors Original, Coors Lite, Miller Lite, Rolling Rock
+
 ## $4 Select Draft Beer
 Stella, Sam Adams, Smuttynose, Harpoon, Tuckerman, Blue Moon, Allegash, Angry Orchard, Sea Dog, Ipswich, Guinness, New Belgium, All Neighborhood Beers
+
 ## $5 One Liquor Drinks
 Stoli Vodka, Tito's Vodka, Bacardi Rum, Captain Morgan Spiced Rum, Jack Daniels Whiskey, Tanqueray Gin
+
 ## $6 House Wines
 Pinot Grigio, Chardonnay, Cabernet Sauvignon, Merlot, White Zinfandel
+
 ## $7 Martini / Manhattan
 Classic Tanqueray Gin Martini
 Classic Tito's Vodka Martini
