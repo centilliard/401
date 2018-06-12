@@ -1,43 +1,70 @@
-# Lunch Sets
+# Lunch Duos
 * Monday - Friday 11AM - 5PM
 * With full Menu Available 
 
-## TRIPLE PLAY *17.91*
-1/4 lb of 401's lobster salad, cup of seafood chowder and demi-salad
+## TWIN BLACKENED FISH TACOS *11.91*
+Colby-Jack, Salsa, Lettuce, Scallion, Potato Chips
 
-## PETITE BAKED HADDOCK *13.91*
-lightly breaded native haddock, cup of seafood chowder and demi-salad
+## TWIN BUFFALO CHICKEN SLIDERS *10.91*
+Breaded Chicken Tenderloin, Buffalo Sauce, Crumbled Bleu Cheese, Petite Caesar Salad
 
-## LAND & SEA *16.91*
-401's steak tips, 1/2 grilled lobster, Bearnaise aioli and demi-salad
+## TWIN HADDOCK SLIDERS *10.91*
+Lettuce, Tartar Sauce, Lemon, Demi-Salad
 
-## THE BLT CLASSIC *10.91*
-bacon, lettuce, tomato, mayo on white bread, cup of French Onion soup and demi-salad
+## PETITE MAC & CHEESE *9.91*
+Penne Pasta, Cream, Herbs, Colby-Jack, Mozzarella, Parmesan, Herbed Ritz Cracker Crumbs, Demi-Salad
 
 
-# Luncheon Fare
+# Lunch Trios
 
-## PETITE MAC & CHEESE WITH GARDEN SALAD *10.91*
-penne pasta tossed with cream, herbs, Colby-Jack, Mozzarella, Parmesan and topped with herbed Ritz cracker crumbs 
+## AMERICAN CHOP SUEY *12.91*
+Penne, Marinara, Ground Beef, peppers, Onions, Demi-Salad, Garlic Bread
 
-## TWIN GRILLED HOT DOGS *6.91*
-two grilled beef hot dogs in a soft toasted bun served with potato chips
+## CHICKEN LA BEC TRIO *12.91*
+Teriyaki, Mushroom, Swiss Cheese, Rice Pilaf, Vegetable of Day
 
-## LOBSTER GRILLED CHEESE SANDWICH *14.91* 
-warm melted Provolone and Swiss cheese and our famous lobster salad sandwiched between two pieces of white bread served with potato chips
+## CHICKEN LOCO *12.91* 
+Salsa, Colby-Jack, Sour Cream, Rice Pilaf, Vegetable of Day
 
-## MEDITERRANEAN CHIX WRAP *11.91*
-grilled chicken, field greens, tomato, cucumber, red onion, Kalamata, sun-dried tomato, balsamic syrup, feta cheese in an herbed tortilla wrap served with potato chips
+## BROILED SCALLOPS *15.91*
+Lemon, Butter, Parsley, Rice Pilaf, Vegetable of Day
 
-## STEAK & CHEESE SUB *13.91*
-shaved prime rib with American cheese, peppers and onions, served with potato chips
+## BROILED SHRIMP *15.91*
+Lemon, Butter, Parsley, Rice Pilaf, Vegetable of Day
 
-## TWIN BLACKENED FISH TACOS *14.91*
-with Colby-Jack, salsa, lettuce, scallion and served with potato chips
 
-## GARDEN SALAD WITH LOBSTER *14.91*
-401's lobster salad mounted on top of crisp mixed greens, cucumbers, red onions, homemade croutons, grape tomatoes and shredded carrots served with your choice of dressing
+# Exclusive Lunch Sandwiches
 
-## TWIN BUFFALO CHICKEN SLIDERS *12.91*
-our famous breaded chicken tenderloin with Buffalo Sauce and crumbled Bleu cheese nestled between slider buns served with potato chips
+## LOBSTER GRILLED CHEESE SANDWICH *14.91*
+Provolone and Swiss Cheese, Lobster Salad, White Bread, Potato Chips
+
+## MEDITERRANEAN CHIX WRAP *9.91*
+Grilled Chicken, Field Greens, Tomato, Cucumber, Red Onion, Kalamata, Sun-Dried Tomato, Balsamic Syrup, Feta Cheese, Herbed Tortilla Wrap, Potato Chips
+
+## TUNA MELT *8.91*
+Tuna Salad, Marbled Rye Bread, American Cheese, Sliced Tomato, Potato Chips 
+
+## TWIN GRILLED HOT DOGS *5.91*
+Two Grilled Beef Hot Dogs, Soft Toasted Bun, Potato Chips 
+
+
+# Fresh Seafood (Market Price)
+
+## NAKED LOBSTER 
+## NATIVE STEAMERS 
+## NATIVE OYSTERS 
+
+
+# Summer Salad
+
+## RED WHITE AND BLUE *12.91*
+Blueberries, Strawberries, Feta Cheese, Candied Walnuts, Arugula, Pomegranate Vinaigrette
+
+
+# Flat Breads
+## BUFFALO CHIX FLAT BREAD *8.91*
+Crispy Chicken, Bleu Cheese, Fiery Red Pepper Sauce, Colby-Jack
+
+## PEPPERONI FLAT BREAD *7.91*
+Marinara Cheese and Pepperoni
 
