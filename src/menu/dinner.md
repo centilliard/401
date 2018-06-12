@@ -31,26 +31,6 @@ bell pepper-onion confetti, Colby-Jack cheese, sour cream, salsa
 spinach, artichoke, sun-dried tomato, Kalamata olives, Feta, balsamic reduction
 
 
-# KIDS' MEALS
-* 10 and under please
-* includes an ice cream sundae *8.91*
-
-## PLAIN CHICKEN TENDERS
-celery, carrots, potato chips
-
-## GRILLED CHEESE SANDWICH
-white bread, American cheese, potato chips
-
-## MAC AND CHEESE
-penne pasta, cream, Colby-Jack, Mozzarella, Parmesan
-
-## PENNE AND RED SAUCE
-penne pasta, homemade marinara sauce
-
-## HOT DOG
-hot dog roll, potato chips
-
-
 # SOUPS
 
 ## SEAFOOD CHOWDER
@@ -159,6 +139,9 @@ char-grilled Black Angus beef burger on marbled rye with sauteed onions, bacon, 
 # CLASSIC ENTREES
 * all entrees include a choice of  homemade mashed potatoes, baked potato, rice pilaf, O'Brien potatoes, or quinoa and vegetable of the day, unless stated otherwise
 
+## (GF) HERBED CHICKEN BREAST *15.91*
+quinoa, spinach, asparagus, mushrooms, tomato, onion
+
 ## SHRIMP & LOBSTER SCAMPI *24.91*
 tomatoes, onion, mushroom, spinach, garlic butter, white wine, penne pasta, Parmesan
 
@@ -175,9 +158,9 @@ char-grilled hand cut tips, garlic-peppercorn marinade## MATE'S PLATE *24.91*
 haddock, bacon wrapped scallops, shrimp and lobster meat, cream, herbs, Ritz cracker crumbs
 
 
-# CELIAC FRIENDLY ENTREES
+# MAX EDGE HEALTHY CHOICES
 
-## (V)(GF) ZUCCHINI LINGUINI *14.91*
+## (V)(GF) ZUCCHINI LINGUINI (717 cal.) *14.91*
 sun-dried tomatoes, onions, garlic, EVOO, spinach, olives, balsamic reduction
 
 ### add any of the below to the Zucchini Linguini
@@ -187,8 +170,22 @@ sun-dried tomatoes, onions, garlic, EVOO, spinach, olives, balsamic reduction
 * (GF) steak tips *12*
 * (GF) feta cheese *1*
 
-## (GF) HERBED CHICKEN BREAST *15.91*
-quinoa, spinach, asparagus, mushrooms, tomato, onion
+## (GF) MAX EDGE HADDOCK (684 cal.) *20.91*
+herbed haddock, quinoa, spinach, tomato, onion, white wine
+
+## (GF) LETTUCE WRAP BURGER (600 cal.) *13.91*
+black angus beef burger, iceberg lettuce, tomato, onion, American
+
+## SHRIMP COCKTAIL (70 cal.) *12.91*
+8 shrimp served with cocktail sauce and lemons
+
+## BLACK BEAN GARDEN SALAD (606 cal.) *14.91*
+black bean veggie burger atop mixed greens, tomatoes, cucumbers, red onions and carrots with cilantro lime vinaigrette
+
+## (GF) COBB SALAD (716 cal.) *17.91*
+grilled jerk chicken, iceberg lettuce, bacon, bleu cheese, hard boiled egg, tomato, oil and vinegar
+
+
 
 # MAC AND CHEESE ENTREES
 
@@ -222,7 +219,7 @@ lightly breaded native haddock, cup of seafood chowder and deni-salad
 401's steak tips, 1/2 grilled lobster, Bearnaise aioli and demi-salad
 
 # SIDES
-* (GF) Baked Potato, Vegetable of Day, Quinoa, Mashed Potato, O'Brien Potato *2.91*
+* (GF) Baked Potato, Vegetable of Day, Quinoa, Mashed Potato, O'Brien Potato, Sauteed Spinach with Garlic *2.91*
 * Rice Pilaf *2.91*
 * 1/2 Mac & Cheese *5.91*
 * Side Caesar *4.91*
@@ -242,9 +239,8 @@ on white bread with American cheese served with potato chips
 ## MAC & CHEESE *8.91*
 penne pasta tossed with cream, herbs, Colby-Jack, Mozzarela and Parmesan
 
-## HOT DOG *8.91*
-served with potato chips
-
+## PENNE AND RED SAUCE
+penne pasta, homemade marinara sauce
 
 # DESSERTS
 
