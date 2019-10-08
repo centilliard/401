@@ -20,12 +20,6 @@ Sunday Brunch
 ## TACOS (4pm - Close)
 Chef's choice of tacos!
 
-#### WEDNESDAY
-
-## SHRIMP & OYSTERS (4pm - Close)
-Shrimp *1.00*
-Oyster *1.00*
-
 #### THURSDAY
 
 ## COMFORT THURSDAY (4pm - Close)
