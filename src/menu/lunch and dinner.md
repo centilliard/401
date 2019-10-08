@@ -1,34 +1,39 @@
-# TAPAS
+# SHAREABLES
 
-## HAVANA SHRIMP (8) *12.91*
+## HAVANA SHRIMP (8) *11.91*
 garlic, olive oil, lime, cilantro, scallion, crostini
 
 ## (GF) BACON-WRAPPED SCALLOPS *12.91*
 Honey Dijon sauce, pickled onion, scallion
 
-## BAKED PRETZEL STICKS *6.91*
+## BAKED PRETZEL STICKS *5.91*
 IPA pub mustard, pickled onions
 
 ## SPINACH AND ARTICHOKE CHEESE DIP *12.91*
 Colby-Jack, cream cheese, Parmesan, lemon, parsley toast points
 
-## 401 WINGS *11.91*
+## 401 WINGS (6 or 12) *7.91* OR *12.91*
 Ragin' Honey Garlic, Buffalo, Jamaican Jerk, Teriyaki, BBQ, Thai Peanut
 served with celery, carrots and Ranch or Bleu cheese
 
-## CHICKEN TENDERS *11.91*
+## 401 CHICKEN TENDERS (6 or 12) *8.91* OR *14.91* 
 Ragin' Honey Garlic, Buffalo, Jamaican Jerk, Teriyaki, BBQ, Thai Peanut
 served with celery, carrots and Ranch or Bleu cheese
 
-## NACHOS *10.91*
+## NACHOS *7.91*
 bell pepper-onion confetti, Colby-Jack cheese, sour cream, salsa
 
-* grilled chicken *7*
-* black angus ground beef *7*
+* grilled chicken *5*
+* black angus ground beef *8*
 * jalapeno *1*
 
-## GREEK FLAT BREAD *10.91*
-spinach, artichoke, sun-dried tomato, Kalamata olives, Feta, balsamic reduction
+## QUESADILLA *7.91*
+Colby-Jack cheese, bell pepper-onion confetti, sour cream, salsa 
+* chicken *5*
+* steak *8*
+* black angus ground beef *5*
+
+## DAILY FLAT BREAD *10.91*
 
 
 # SOUPS
@@ -36,20 +41,14 @@ spinach, artichoke, sun-dried tomato, Kalamata olives, Feta, balsamic reduction
 ## SEAFOOD CHOWDER
 scallops, haddock, shrimp, lobster
 
-* Cup *5.91*
+* Cup *6.91*
 * Bowl *10.91*
 
 ## FRENCH ONION SOUP
 oven baked with three imported cheeses
 
-* Cup *4.91*
-* Bowl *7.91*
-
-## CHEF DUVALL'S CHILI
-award winning chili with 6 beans served with tortilla chips
-
-* Cup *4.91*
-* Bowl *9.91*
+* Cup *5.91*
+* Bowl *8.91*
 
 
 # SALADS
@@ -57,23 +56,20 @@ award winning chili with 6 beans served with tortilla chips
 ## GARDEN *7.91* 
 mixed greens, tomatoes, cucumbers, red onions and carrots with croutons  
 
-## CAESAR *7.91* 
+## CAESAR *8.91* 
 fresh romaine, Caesar dressing, Parmesan cheese, croutons  
 
-## (GF) MEDITERRANEAN QUINOA *10.91*
+## (GF) MEDITERRANEAN QUINOA *12.91*
 cucumber, sun-dried tomato, Kalamata olives, onion, feta, arugula, cilantro-lime vinaigrette
 
-## (GF) BABY SPINACH AND GORGONZOLA *10.91*
-cranberries, mandarin oranges, almonds, blue cheese, pomegranate vinaigrette
-
 ### add any of the below to the above salads
-* grilled chicken *7*
-* grilled scallops *12*
-* grilled shrimp *12*
-* steak tips *12*
+* grilled chicken *5*
+* grilled scallops *8*
+* grilled shrimp *7*
+* steak tips *8*
 * lobster salad *12*
 
-## THAI PEANUT CHICKEN *16.91*
+## THAI PEANUT CHICKEN *15.91*
 field greens, Mandarin oranges, lo-mein noodles, sesame-coconut chicken, cilantro, bell pepper-onion confetti, almonds, Thai Peanut vinaigrette
 
 ## SURF AND TURF CAESAR *20.91*
@@ -85,20 +81,17 @@ steak tips and scallops wrapped in bacon atop a Caesar salad
 * no substitutions
 * all available on GF bun *1.91*
 
-## 401 Burger *10.91*
+## England Burger *13.91*
+ME Family Farm Beef, VT Cheddar Cheese, NH Bacon, MA Baked Brioche Bun, Lettuce/Tomato/Onion
+
+## 401 Burger *9.91*
 char-grilled Black Angus beef burger with iceberg lettuce, tomato, onion
 
 * American cheese *1*
 * bacon *1*
 
-## O.M.G. *13.91*
+## O.M.G. *12.91*
 char-grilled Black Angus beef burger with mushrooms, caramelized onions, peppers, bacon, American cheese
-
-## BAYOU *12.91*
-char-grilled Black Angus beef burger with cajun spiced red hot sauce, bacon, crumbled Bleu cheese
-
-## KAMIKAZE *12.91*
-char-grilled Black Angus beef burger with teriyaki, Swiss cheese, mushrooms, caramelized onions
 
 ## BUCKAROO *12.91*
 char-grilled Black Angus beef burger with BBQ sauce, Cheddar cheese, bacon
@@ -108,13 +101,7 @@ char-grilled Black Angus beef burger with BBQ sauce, Cheddar cheese, bacon
 * all sandwiches include potato chips and pickle
 * no substitutions
 
-## QUESADILLA *7.91*
-Colby-Jack cheese, bell pepper-onion confetti, sour cream, salsa 
-* chicken *7*
-* steak *12*
-* black angus ground beef *7*
-
-## LOBSTER ROLL *15.91*
+## LOBSTER ROLL *16.91*
 claw and knuckle, lemon, celery, mayo, iceberg lettuce
 
 ## CORNED BEED REUBEN *12.91*
@@ -126,39 +113,47 @@ shaved prime rib with American cheese, peppers and onions
 ## HADDOCK SANDWICH *12.91*
 iceberg lettuce, tartar sauce, lemon, toasted bun 
 
-## TWIN CHICKEN BLT TACOS *12.91*
+*American cheese *1*
+
+## TWIN CHICKEN BLT TACOS *11.91*
 grilled chicken, iceberg lettuce, bacon, tomato, chipotle aioli, scallion
 
-## BLACK BEAN BURGER *11.91*
-house made vegetarian burger with black beans, tomato, onion, garlic, cilantro, lime with chipotle aioli, lettuce, tomato, onion
+## TWIN BLACKENED HADDOCK TACOS *12.91*
+Colby Jack Cheese, Lettuce, Scallions, Salsa
+
+## CORNED BEEF REUBEN *11.91*
+Saurkraut, Swiss Cheese, Thousand Island Dressing on Marble Rye
 
 ## PATTY MELT *12.91*
 char-grilled Black Angus beef burger on marbled rye with sauteed onions, bacon, American cheese
 
 
 # CLASSIC ENTREES
-* all entrees include a choice of  homemade mashed potatoes, baked potato, rice pilaf, O'Brien potatoes, or quinoa and vegetable of the day, unless stated otherwise
 
-## (GF) HERBED CHICKEN BREAST *15.91*
-quinoa, spinach, asparagus, mushrooms, tomato, onion
 
-## SHRIMP & LOBSTER SCAMPI *24.91*
+## (GF) BBQ ROASTED HALF CHICKEN *16.91*
+Bone and Brined with Mashed Potatos and Seasonal Veggies
+
+## TRIPLE PLAY *23.91*
+Lobster Roll, Cup of Seafood Chowder, Demi Salad
+
+## PETIT HADDOCK TRIO *17.91*
+Baked Haddock, Cup of Seafood Chowder, Demi Salad
+
+## SHRIMP & LOBSTER SCAMPI *21.91*
 tomatoes, onion, mushroom, spinach, garlic butter, white wine, penne pasta, Parmesan
 
-## BAKED NATIVE HADDOCK *19.91*
+## BAKED NATIVE HADDOCK *17.91*
 Chardonnay, fresh lemon, Ritz crumbs, butter, parsley
 
-## HONEY DIJON SCALLOPS *23.91*
-baked until golden brown with Honey Dijon, Ritz cracker topping
+## STEAK AU POIVRE *22.91*
+Twin Prime Tenderloin Tails, Brandy Peppercorn Cream Sauce with Mashed Potatos and Seasonal Veggies
 
-## (GF) STEAK TIPS *20.91*
+## STEAK TIPS *20.91*
 char-grilled hand cut tips, garlic-peppercorn marinade## MATE'S PLATE *24.91*
 
-## MATE'S PLATE *24.91*
-haddock, bacon wrapped scallops, shrimp and lobster meat, cream, herbs, Ritz cracker crumbs
-
-
-# MAX EDGE HEALTHY CHOICES
+## MAPLE-CURRY GLAZED SALMON *18.91*
+Organic Scotland Salmon with Rice Pilaf and Seasonal Veggies
 
 ## (V)(GF) ZUCCHINI LINGUINI (717 cal.) *14.91*
 sun-dried tomatoes, onions, garlic, EVOO, spinach, olives, balsamic reduction
@@ -170,79 +165,57 @@ sun-dried tomatoes, onions, garlic, EVOO, spinach, olives, balsamic reduction
 * (GF) steak tips *12*
 * (GF) feta cheese *1*
 
-## (GF) MAX EDGE HADDOCK (684 cal.) *20.91*
-herbed haddock, quinoa, spinach, tomato, onion, white wine
 
-## (GF) LETTUCE WRAP BURGER (600 cal.) *13.91*
-black angus beef burger, iceberg lettuce, tomato, onion, American
+# 401 MAC ATTACK
 
-## SHRIMP COCKTAIL (70 cal.) *12.91*
-8 shrimp served with cocktail sauce and lemons
+## 401 MAC AND CHEESE *8.91*
+penne pasta tossed with 9 Cheese Blend and topped with herbed Ritz Cracker Crumbs
 
-## BLACK BEAN GARDEN SALAD (606 cal.) *14.91*
-black bean veggie burger atop mixed greens, tomatoes, cucumbers, red onions and carrots with cilantro lime vinaigrette
+## BUFFALO CHICKEN MAC *12.91*
+Buffalo Tenders, Blue Cheese and topped with Ritz Crumbs
 
-## (GF) COBB SALAD (716 cal.) *17.91*
-grilled jerk chicken, iceberg lettuce, bacon, bleu cheese, hard boiled egg, tomato, oil and vinegar
+## BACON CHEESEBURGER MAC *12.91*
+Ground Beef, Bacon, topped with Ritz Crumbs
 
-
-
-# MAC AND CHEESE ENTREES
-
-## 401 MAC AND CHEESE *10.91*
-penne pasta tossed with cream, herbs, Colby-Jack, Mozzarela and Parmesan topped with herbed Ritz cracker crumbs
+## LOBSTER MAC *16.91*
+Lobster, Tomato, Bacon, and topped with Ritz Crumbs
 
 ### add any of the below to the 401 Mac and Cheese
-* steak tips *12*
-* grilled chicken *7*
-* bacon wrapped scallops *10*
-* grilled shrimp *12*
+* bacon *1*
+* steak *8*
+* shrimp *7*
+* grilled chicken or ground beef *5*
+* scallops *8*
 
-## BACON CHEESEBURGER MAC *16.91*
-Black Angus ground beef, 401 Mac and Cheese, crispy bacon, scallion 
-
-## BUFFALO CHICKEN MAC *16.91*
-401 Mac and Cheese, Buffalo sauce, Blue cheese, scallion
-
-## SIGNATURE B.L.T. MAC *21.91*
-401 Mac and Cheese, crispy bacon, claw and knuckle lobster, tomatoes, scallion
-
-# DINNER TRIOS
-
-## PETITE BAKED HADDOCK *17.91*
-lightly breaded native haddock, cup of seafood chowder and deni-salad
-
-## TRIPLE PLAY *22.91*
-401's lobster salad in a hot dog roll, cup of seafood chowder and demi-salad
-
-## LAND & SEA *20.91*
-401's steak tips, 1/2 grilled lobster, Bearnaise aioli and demi-salad
 
 # SIDES
-* (GF) Baked Potato, Vegetable of Day, Quinoa, Mashed Potato, O'Brien Potato, Sauteed Spinach with Garlic *2.91*
-* Rice Pilaf *2.91*
-* 1/2 Mac & Cheese *5.91*
-* Side Caesar *4.91*
-* Side Garden Salad *4.91*
+* (GF) Baked Potato, Vegetable of Day, Quinoa, Mashed Potato, O'Brien Potato, Rice Pilaf, *2*
+* 1/2 Mac & Cheese *4*
+* Side Caesar *4*
+* Side Garden Salad *4*
 
 
 # KIDS' MEALS
 * 10 and under please
-* all kids' meals come with a petite ice cream sundae
+* all kids' meals come with chips & hoodsie cup *
 
-## PLAIN CHICKEN TENDERS *8.91*
-served with potato chips
+## GRILLED HOT DOG *4*
 
-## GRILLED CHEESE *8.91*
-on white bread with American cheese served with potato chips
+## CHEESEBURGER *5*
 
-## MAC & CHEESE *8.91*
+## PLAIN CHICKEN TENDERS *4*
+
+## CHEESE QUESADILLA *4*
+(add chicken or ground beef for $1 more)
+
+## MAC & CHEESE *4*
 penne pasta tossed with cream, herbs, Colby-Jack, Mozzarela and Parmesan
 
-## PENNE AND RED SAUCE *8.91*
+## PENNE AND RED SAUCE *4*
 penne pasta, homemade marinara sauce
 
-# DESSERTS
+
+# DESSERTS (Changes Seasonally) 
 
 ## CHOCOLATE PEANUT BUTTER PIE W/ REESE'S PEANUT BUTTER CUPS *8.91*
 the popular candy bar in a pie, dark chocolate and peanut butter mousse full of Reese's Peanut Butter Cups
