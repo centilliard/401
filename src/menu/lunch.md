@@ -1,3 +1,5 @@
+REFER TO THE LUNCH & DINNER MENU FOR ALL MENU ITEMS WHICH IS AVAILABLE DAY AND NIGHT :) THANK YOU!
+
 # Lunch Duos
 * Monday - Friday 11AM - 5PM
 * With full Menu Available 
