@@ -33,7 +33,7 @@ Chef's choice of Comfort Foods!
 
 #### FRIDAY, SATURDAY
 
-## SLOW ROASTED PRIME RIB (4pm - Close)
+## SLOW ROASTED PRIME RIB (5pm - 10pm)
 Served with Mashed Potato, Au Jus, Vegetable of the Day
 ### choice of
 * Senior cut (14 oz) *24.91*
