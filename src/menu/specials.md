@@ -53,17 +53,9 @@ Classic Ice Pik Vodka Martini
 Jack Daniel's Whiskey Manhattan
 
 
-
 # Seacoast United & The Rim NIGHTLY SPECIALS!!!
 * You don't have to win to celebrate! Grab your teammates and wear your Seacoast United and Rim T-shirt or show your card to save 
 * Dine-in only 
 
 ## Narraganset Bottled Beer *2*
-
-
-## Nachos with Cheese & Bell Pepper Onion Confetti *7*
-
-## Wings or Tenders *7*
-
-## 401 Burger with Cheese & Bacon *8*
 
