@@ -57,5 +57,3 @@ Jack Daniel's Whiskey Manhattan
 * You don't have to win to celebrate! Grab your teammates and wear your Seacoast United and Rim T-shirt or show your card to save 
 * Dine-in only 
 
-## Narraganset Bottled Beer *2*
-
