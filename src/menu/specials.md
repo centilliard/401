@@ -20,7 +20,7 @@ Wings & Chicken Tender Specials; Domestic draft and bottle specials
 ## TACO TUESDAY (4pm - Close)
 
 #### FRIDAY 
-50% OFF entire bill for (3pm-5pm) 
+Teachers Night...50% OFF their entire bill (3pm-5pm) 
 Slow Roasted Prime Rib, Served with Mashed Potato, Au Jus, Vegetable of the Day
 ### choice of
 * Senior cut (14 oz) *24.91*
