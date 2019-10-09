@@ -1,4 +1,5 @@
-# Draft Beers *4.50/PINT*
+# Draft Beers 
+## We love fresh beer here at the 401 Tavern which is why we bring in new brands of beer weekly...Below is a list of many of our most popular but be sure to ask your servers for the most updated draft and bottle list :)
 
 ## ANGRY ORCHARD CRISP APPLE
 a crisp and refreshing cider, with fresh apple aroma and slightly sweet, ripe apple flavor
