@@ -1,5 +1,5 @@
 # Draft Beers 
-## We love fresh beer here at the 401 Tavern which is why we bring in new brands of beer weekly...Below is a list of many of our most popular but be sure to ask your servers for the most updated draft and bottle list :)
+## We love fresh beer here at the 401 Tavern which is why we bring in new brands of beer weekly...Below is a list of some our most popular present and past, but be sure to ask your servers for the most updated draft and bottle list :)
 
 ## ANGRY ORCHARD CRISP APPLE
 a crisp and refreshing cider, with fresh apple aroma and slightly sweet, ripe apple flavor
@@ -69,78 +69,78 @@ brewed with specialty malts, some grown in Maine, and four types of hops, cold c
 
 # Bottled Beers
 
-## BUDWEISER *3.50*
+## BUDWEISER 
 American Adjunct Lager
 ### 5.0% ABV
 
-## BUD LIGHT *3.50*
+## BUD LIGHT 
 American Adjunct Light Lager
 ### 4.2% ABV
 
-## BUD LIGHT LIME *3.50*
+## BUD LIGHT LIME 
 It’s Bud Light with a twist!
 ### 4.2% ABV
 
-## COORS LIGHT *3.50*
+## COORS LIGHT 
 Light Lager
 ### 4.2% ABV
 
-## MILLER LIGHT *3.50* 
+## MILLER LIGHT 
 Light Lager 
 ### 4.2% ABV
 
-## ROLLING ROCK *3.50*
+## ROLLING ROCK 
 Extra Pale Lager 
 ### 4.5% ABV
 
-## MICHELOB LIGHT *3.75*
+## MICHELOB LIGHT 
 Light Lager 
 ### 4.3% ABV
 
-## MICHELOB ULTRA *3.75*
+## MICHELOB ULTRA 
 Light Lager 
 ### 4.2% ABV  
 
-## CORONA *4.25*
+## CORONA 
 American Adjunct Lager 
 ### 4.6% ABV
 
-## CORONA LIGHT *4.25*
+## CORONA LIGHT 
 Light Lager
 ### 4.1% ABV
 
-## HEINEKEN *4.25*
+## HEINEKEN 
 Euro Pale Lager
 ### 5.0% ABV
 
-## SAM BOSTON LAGER *4.25*
+## SAM BOSTON LAGER 
 American Lager 
 ### 4.9% ABV
 
-## AMSTEL LIGHT *4.25*
+## AMSTEL LIGHT 
 Pale Lager 
 ### 3.5% ABV
 
-## O'DOULS PREMIUM *3.50*
+## O'DOULS PREMIUM 
 ### Non-Alcoholic
 
-## (GF) OMISSION IPA *4.50* 
+## (GF) OMISSION IPA 
 American Pale Ale; floral aroma complemented by caramel malt body 
 ### 5.8 %ABV
 
-## (GF) OMISSION LAGER *4.50* 
+## (GF) OMISSION LAGER 
 American Lager; aromatic hop profile offers a unique, easy-drinking beer for those looking for a lighter and approachable beer style
 ### 4.6% ABV
 
-## NEWCASTLE *4.25*
+## NEWCASTLE 
 English Brown Ale; light caramel and toasted malt flavors, a true British classic
 ### 4.7% ABV
 
-## SAMUEL SMITH'S NUT BROWN ALE *5.00*
+## SAMUEL SMITH'S NUT BROWN ALE 
 English Brown Ale; walnut-like color with a palate of hazelnuts, wonderful balance of roasted malt and aromatic hops 
 ### 5.0% ABV
 
-## SAMUEL SMITH'S OATMEAL STOUT *5.00*
+## SAMUEL SMITH'S OATMEAL STOUT 
 Stout; velvet palate, silky smooth and bittersweet
 ### 5.0% ABV
 
