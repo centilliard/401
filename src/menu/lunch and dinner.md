@@ -82,7 +82,7 @@ steak tips and scallops wrapped in bacon atop a Caesar salad
 * all available on GF bun *1.91*
 
 ## England Burger *13.91*
-ME Family Farm Beef, VT Cheddar Cheese, NH Bacon, MA Baked Brioche Bun, Lettuce/Tomato/Onion
+Maine Family Farm Beef, Vermont Cheddar Cheese, NH Bacon, MA Baked Brioche Bun, Lettuce/Tomato/Onion
 
 ## 401 Burger *9.91*
 char-grilled Black Angus beef burger with iceberg lettuce, tomato, onion
