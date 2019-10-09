@@ -18,7 +18,7 @@ build: .dirs .tools .scss .html .img .menu .sitemap
 	sed -i -e "/__HEADER_CSS__/{r ${BUILD_DIR}/styles/header.css" -e 'd}' ${BUILD_DIR}/index.html #inject header CSS
 	sed -i -e "/__BRUNCH_MENU__/{r ${BUILD_DIR}/menu/brunch.html" -e 'd}' ${BUILD_DIR}/index.html #inject brunch HTML
 	sed -i -e "/__LUNCH_MENU__/{r ${BUILD_DIR}/menu/lunch.html" -e 'd}' ${BUILD_DIR}/index.html   #inject lunch HTML
-	sed -i -e "/__DINNER_MENU__/{r ${BUILD_DIR}/menu/dinner.html" -e 'd}' ${BUILD_DIR}/index.html #inject dinner HTML
+	sed -i -e "/__LUNCH_AND_DINNER_MENU__/{r ${BUILD_DIR}/menu/lunch_and_dinner.html" -e 'd}' ${BUILD_DIR}/index.html #inject lunch and dinner HTML
 	sed -i -e "/__SPECIALS_MENU__/{r ${BUILD_DIR}/menu/specials.html" -e 'd}' ${BUILD_DIR}/index.html #inject specials HTML
 	sed -i -e "/__BEER_MENU__/{r ${BUILD_DIR}/menu/beer.html" -e 'd}' ${BUILD_DIR}/index.html     #inject beer HTML
 	sed -i -e "/__WINE_MENU__/{r ${BUILD_DIR}/menu/wine.html" -e 'd}' ${BUILD_DIR}/index.html     #inject wine HTML
